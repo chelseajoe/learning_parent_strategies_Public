@@ -1,0 +1,100 @@
+PROMPT END ____________________
+Interaction Chunk 1:
+
+(first) Line [0]: parent: Okay, you want to pick a story?
+(last) Line [7]: child: Ready.
+
+Interaction Chunk 2:
+
+(first) Line [8]: parent: Okay. Camilla Cream loved Lima beans.
+(last) Line [10]: parent: Then she screamed.
+
+Interaction Chunk 3:
+
+(first) Line [11]: parent: "Oh my heavens," she cried.
+(last) Line [14]: parent: "No," Camilla told him.
+
+Interaction Chunk 4:
+
+(first) Line [15]: parent: "Well then," Dr.Bumble said.
+(last) Line [18]: parent: Her father tried to make her feel better.
+
+Interaction Chunk 5:
+
+(first) Line [19]: parent: "No thank you," sighed Camilla.
+(last) Line [22]: parent: "Well, it's not the mumps," concluded Dr. Grump.
+
+Interaction Chunk 6:
+
+(first) Line [23]: parent: "Or the measles," said Dr. Sponge.
+(last) Line [27]: parent: Then they filed out the front door followed by Dr. Bumble.
+
+Interaction Chunk 7:
+
+(first) Line [28]: parent: "Oh no." That night Camilla took her medicine.
+(last) Line [30]: parent: Oh my goodness, she has tails.
+
+Interaction Chunk 8:
+
+(first) Line [31]: parent: "Could be a fungus," added Dr. Gourd.
+(last) Line [33]: parent: But the experts didn't have a clue much less a cure.
+
+Interaction Chunk 9:
+
+(first) Line [34]: parent: By now, the TV news had found out about Camilla.
+(last) Line [37]: parent: "Close your eyes," she said, "breathe deeply, and become one with your room."
+
+Interaction Chunk 10:
+
+(first) Line [38]: parent: "I wish you hadn't said that," Camilla groaned.
+(last) Line [41]: parent: "What we have seen here is a bad case of the stripes, one of the worst I've seen."
+
+Interaction Chunk 11:
+
+(first) Line [42]: parent: "Are those magic beans?" asked Mrs. Cream.
+(last) Line [44]: parent: "Yuck!" She said, "No one like Lima beans, especially me."
+
+Interaction Chunk 12:
+
+(first) Line [45]: parent: "Oh dear," said the old woman sadly.
+(last) Line [47]: parent: "I thought so," the old woman said with a smile.
+
+Interaction Chunk 13:
+
+(first) Line [48]: parent: "Hmmmm," said Camilla.
+(last) Line [50]: parent: I think that's the end.
+
+Interaction Chunk 14:
+
+(first) Line [51]: child: It is.
+(last) Line [54]: parent: Why? You want to read it?
+
+Interaction Chunk 15:
+
+(first) Line [55]: child: We already read it.
+(last) Line [57]: child: You choose.
+
+Interaction Chunk 16:
+
+(first) Line [58]: parent: I choose?
+(last) Line [61]: child: I read one of these.
+
+Interaction Chunk 17:
+
+(first) Line [62]: parent: One of these?
+(last) Line [64]: parent: The Lorax?
+
+Interaction Chunk 18:
+
+(first) Line [65]: child: Yeah.
+(last) Line [67]: child: I love this.
+
+Interaction Chunk 19:
+
+(first) Line [68]: parent: You do?
+(last) Line [71]: child: I wish this could read to us.
+
+Interaction Chunk 20:
+
+(first) Line [72]: parent: Yeah, that would be fancy, wouldn't it? Okay.
+(last) Line [74]: child: Wait, can I show this story?

@@ -1,0 +1,12 @@
+.env
+COPY*
+No*
+DAMI_processing/DAMI
+DAMI_processing/CSV_FILES
+DAMI_processing/OUTPUT_FRAMES
+DAMI_processing/OLD*
+old*
+PICCOLO
+output.txt
+practice_output
+code

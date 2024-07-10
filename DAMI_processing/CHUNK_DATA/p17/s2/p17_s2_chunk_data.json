@@ -1,0 +1,932 @@
+[
+    {
+        "Interaction Chunk": 0,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "00:00",
+                "Transcript": "The thing there for your computer. Remember you used to-. What if there was a drawing thing right here and then you could draw little people in."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "00:09",
+                "Transcript": "Yeah, it's called a stylus, like the pencil."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "00:20",
+                "Transcript": "Yeah."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "00:20",
+                "Transcript": "Don't touch. No, no, no."
+            },
+            {
+                "Speaker": "Interviewer",
+                "Timestamp": "00:20",
+                "Transcript": "Okay. You guys can start."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 1,
+        "Lines": [
+            {
+                "Speaker": "parent",
+                "Timestamp": "00:24",
+                "Transcript": "All right. What do you-."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "00:25",
+                "Transcript": "Aww."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "00:27",
+                "Transcript": "Okay you pick. Ooo. Cloudy with a Chance of Meatballs. What do you think?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "00:40",
+                "Transcript": "Wait, where is it? Well, is it short or long?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "00:45",
+                "Transcript": "Well, why don't we do one of these?how about Horton Hatches the Egg?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "00:48",
+                "Transcript": "I want to do this one."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "00:49",
+                "Transcript": "Oh, yeah, let's do one. This one's pretty cool. Cloudy with a Chance of Meatballs."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "00:55",
+                "Transcript": "I seen the movie."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "00:57",
+                "Transcript": "Yeah, this is where it came from, from this book. We were all sitting around the bog kitchen table. It was Saturday morning. Pancake morning. Mom was squeezing oranges for juice. Henry and I were betting on how many pancakes we could eat, and grandpa was doing the flipping. How many pancakes can you eat, Pearl?"
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 2,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "01:19",
+                "Transcript": "One, no, no. One, two, three, four, five, six, seven, eight , nine."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "01:30",
+                "Transcript": "Nine?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "01:30",
+                "Transcript": "Up to here."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "01:31",
+                "Transcript": "Chocolate chip pancakes?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "01:33",
+                "Transcript": "[crosstalk 00:01:33]the thing up-."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "01:37",
+                "Transcript": "Wait til you see what's going to happen in the book."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "01:40",
+                "Transcript": "It's going to be flying meatballs."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "01:43",
+                "Transcript": "Seconds later something flew in the air and landed, headed toward the kitchen ceiling and landed right on Henry. After we realized the flying object was only a pancake, we all laughed, even Grandpa. Breakfast continued quite uneventfully. All the other pancakes landed in the pan and all of them were eaten, even the one that landed on Henry."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "02:14",
+                "Transcript": "[crosstalk 00:02:14] Landed on-."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "02:14",
+                "Transcript": "That night, touched off by the pancake incident, Grandpa told us the best tall tale bedtime story he'd ever told. Across the ocean, over lots of huge bumpy mountains, across three hot deserts and one smaller ocean, there lived a tiny town of Chewandswallow."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 3,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "02:34",
+                "Transcript": "Chewandswallow?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "02:38",
+                "Transcript": "Yeah, like the-, that's the name oof their town."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "02:42",
+                "Transcript": "In most ways it was very much like-"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "02:44",
+                "Transcript": "And their the only [inaudible 00:02:48]"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "02:49",
+                "Transcript": "Well, that was from the movie."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "02:53",
+                "Transcript": "It's a little different here."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "02:54",
+                "Transcript": "I know."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "02:55",
+                "Transcript": "This one has a cleaner, shoe store, movie theater, gift shop, [crosstalk 00:03:03] hardware store, gas station. That's all I can see."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "03:08",
+                "Transcript": "[inaudible 00:03:08] And what about that?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "03:11",
+                "Transcript": "What? That's the gift shop. Jewelry store. In most ways it was just like any other tiny town. It had a main street lined with stores, houses with trees and gardens around them, and a schoolhouse, about 300 people and some assorted cats and dogs. But, there were food stores in Chewandswallow. They didn't need any. The sky supplied all the food they could possibly want. The only thing that was really different about Chewandswallow was its weather. It came three times a day, at breakfast, lunch, and dinner. Everything that everyone at came from the sky."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 4,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "03:50",
+                "Transcript": "(gasp) I want to eat from the sky. What if I ate from the sky."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "04:01",
+                "Transcript": "Whatever the weather served, that's what they ate. But, it never rained rain and it never snowed snow, and it never blew just wind. It rained things like soup and juice. It snowed mashed potatoes and green peas. [crosstalk 00:04:16]"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "04:16",
+                "Transcript": "What are those?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "04:17",
+                "Transcript": "And sometimes the wind blew in storms of hamburgers."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "04:25",
+                "Transcript": "Yum."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "04:25",
+                "Transcript": "What if that hit you on the head?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "04:26",
+                "Transcript": "I would still eat it."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "04:29",
+                "Transcript": "You have to walk around with a plate outside."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "04:32",
+                "Transcript": "And you would be-"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "04:37",
+                "Transcript": "What of ketchup fell on your head? And mustard?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "04:41",
+                "Transcript": "From an upside down hamburger?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "04:44",
+                "Transcript": "Yeah, see it's raining those things."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "04:48",
+                "Transcript": "That's soup."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "04:50",
+                "Transcript": "The people could watch the weather report on television in the morning and they would even hear a prediction for the next day's food. Look he's catching soup [inaudible 00:05:02], pancakes, pie. He's got-"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "05:09",
+                "Transcript": "Chicken, chicken, that's chicken."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "05:10",
+                "Transcript": "They are not- This book was not written by a vegan."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 5,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "05:15",
+                "Transcript": "There's chicken there."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "05:17",
+                "Transcript": "Yeah. When the townspeople went outside, they carried their plates, cups, glasses, forks, spoons, knives and napkins with them. That way they would always be prepared for any kind of weather. If there were leftovers, and there usually were, the people took them home and put them in their refrigerators in case they got hungry in between meals. The menu varied. By the time they woke up in the morning, breakfast was coming down. After a brief shower of orange juice, low clouds of sunny side up eggs moved in, followed by pieces of toast. Butter and jelly sprinkled down for the toast.[crosstalk 00:05:58]"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "05:57",
+                "Transcript": "Look! Hot dogs, hot dogs [inaudible 00:06:04]"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "06:03",
+                "Transcript": "Coming out of the sky."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "06:05",
+                "Transcript": "I could eat like, one, two, three, four, five hot dogs in a day. I could [inaudible 00:06:13]"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "06:13",
+                "Transcript": "Can you imagine if that really was happening?"
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 6,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "06:21",
+                "Transcript": "In real life."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "06:23",
+                "Transcript": "Hey, look they, they're at a restaurant and they have an open ceiling at the restaurant and they sit there and the food falls down. For lunch one day, frank hot dogs already in their rolls blew in from the northwest at about five miles an hour. There were mustard clouds nearby. Then the wind shifted to the east [inaudible 00:06:48]"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "06:48",
+                "Transcript": "Mustard."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "06:48",
+                "Transcript": "-and brought in baked beans. A drizzle of soda finished off the meal. Do you think these guys got dirty from all the food falling?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "06:58",
+                "Transcript": "Yeah, 'cause look at him."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "07:01",
+                "Transcript": "Yeah, that seems pretty messy. Dinner one night consisted of lamb chops becoming heavy at times with occasional ketchup. Periods of peas and baked potatoes were followed by a gradual clearing with a wonderful jello setting in the west. This is how they clean up. The sanitation department of Chewandswallow had a rather unusual job for a sanitation department. It had to remove the food that fell on the roofs and sidewalks and lawns. The workers cleaned things up after every meal and fed all the dogs and cats. Then they emptied some of it into the surrounding oceans for the fish and turtles and whales to eat. The rest of the food was put back into the earth so that the soil would be richer for the people's flower gardens. Life in the townspeople was delicious until the weather took a turn for the worse. Uh-oh."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 7,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "08:06",
+                "Transcript": "What do you think it is?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "08:08",
+                "Transcript": "Look all the spaghetti."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "08:14",
+                "Transcript": "Yummy spaghetti. Oh, the spaghetti's making a flood."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "08:17",
+                "Transcript": "One day there was nothing but Gorgonzola cheese all day long. Stinky. The next day was only broccoli, all overcooked. And the next day was Brussels sprouts and peanut butter with mayonnaise. Yuck. Another day there was pea soup fog. No one could see where they were going. And they could barely find out the rest of the meal. They got stuck in the fog. The food was getting larger and larger and so were the portions. The people were getting frightened. Violent storms blew up frequently. Awful things were happening. Look at that pancake. Look at the size of it, over a whole house."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "08:59",
+                "Transcript": "I would eat that whole thing. I would jump on it, lay in it."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "09:03",
+                "Transcript": "Is that syrup?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "09:06",
+                "Transcript": "Mm-hmm (affirmative)-hm. What if the syrup makes it flood?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "09:06",
+                "Transcript": "Well, look, look at the ground."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 8,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "09:06",
+                "Transcript": "Syrup!"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "09:15",
+                "Transcript": "One Tuesday there was a hurricane of bread and rolls all day long and into the night. There were soft rolls and hard rolls with seeds and some without."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "09:23",
+                "Transcript": "I tooted."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "09:26",
+                "Transcript": "There was white bread and rye and whole wheat toast. Most of it was larger than they had ever seen bread and rolls before. It was a terrible day. Everyone had to stay indoors. Roofs were damaged and the sanitation department was beside itself. The mess took the workers four days to clean up."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "09:47",
+                "Transcript": "Four?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "09:47",
+                "Transcript": "And the sea was [inaudible 00:09:52] full of floating rolls."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 9,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "09:53",
+                "Transcript": "Days, great!"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "09:56",
+                "Transcript": "There was a storm of pancakes one morning and a downpour of maple syrup that nearly flooded the town. A huge pancake covered the school. No one could get it off because of the weight so they had to close the school."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "10:13",
+                "Transcript": "I would eat the school."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "10:15",
+                "Transcript": "Lunch one day brought 15 inch drifts of cream cheese and jelly sandwiches. Everyone ate themselves sick and the day ended with a stomach ache. There was an awful salt and pepper wind followed by an even worse tomato tornado. People were sneezing themselves silly and running to avoid the tomatoes. The town was a mess. There were seeds and pulp everywhere. What a mess."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "10:43",
+                "Transcript": "Uh, oh, I would eat that donut, I would eat that donut. Oh, that donut looks so good."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "10:50",
+                "Transcript": "It's too giant though."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "10:52",
+                "Transcript": "No."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "10:54",
+                "Transcript": "The sanitation department gave up. The job was too big. Everyone feared for their lives. They couldn't go outside most of the time. Many of the houses had been badly damaged by giant meatballs. Stores were boarded up."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "11:07",
+                "Transcript": "Hey, can I see the meatballs?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "11:12",
+                "Transcript": "Let's see what food-, I see hamburger. I see a giant pickle go through her house."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "11:18",
+                "Transcript": "And I see-"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "11:20",
+                "Transcript": "Olives."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 10,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "11:22",
+                "Transcript": "These."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "11:22",
+                "Transcript": "Donuts, pizza."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "11:25",
+                "Transcript": "Let me do one. Cheese right there."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "11:32",
+                "Transcript": "Yeah. Look. What's up top? Pork chops in the sky."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "11:41",
+                "Transcript": "Pork chops? [crosstalk 00:11:41]"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "11:41",
+                "Transcript": "That's scary. Look, pasta. Look it fell on his head. So a decision was made to abandon the town of Chewandswallow. It was a matter of survival. Do you know what abandon means?"
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 11,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "11:57",
+                "Transcript": "It means no one is allowed to go there."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "12:00",
+                "Transcript": "That's right."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "12:03",
+                "Transcript": "Except the workers."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "12:04",
+                "Transcript": "The people glued together the giant pieces of stale bread sandwich style with peanut butter. Loo, they're building a boat. Look how they build the boat. The sails are pizza."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "12:15",
+                "Transcript": "Pizza and cheese. No, grapes."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "12:23",
+                "Transcript": "This is crazy. They took their absolute necessities with them and set sail on their rafts for new land. After being afloat for a week, they finally reached a small coastal town which welcomed them. The bread held up surprising well enough for them to build temporary houses for themselves out os it. The children began school again and all the adults, the adults all tried to find places for themselves in the new land."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 12,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "12:55",
+                "Transcript": "I love Chewandswallow because I could eat whatever I want. Sky rain candy! Sky rain huge ginormous donuts."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "13:12",
+                "Transcript": "Who would get a belly ache?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "13:14",
+                "Transcript": "Me."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "13:15",
+                "Transcript": "Yeah, think so?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "13:21",
+                "Transcript": "I would be a rainbow and I could [inaudible 00:13:21] it and I can't even put my mouth in it."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 13,
+        "Lines": [
+            {
+                "Speaker": "parent",
+                "Timestamp": "13:24",
+                "Transcript": "I would want, what food would I want? Dumplings, soup dumplings."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "13:31",
+                "Transcript": "No soup dumplings you have to swim in the soup."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "13:38",
+                "Transcript": "I want soup dumplings to fall from the sky. What other food would you want to fall from the sky? Pizza?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "13:50",
+                "Transcript": "No, hamburgers. So, it would go like this, shoo, shoo, shoo."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "13:59",
+                "Transcript": "Ooo, peanut butter cups, coffee."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 14,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "14:03",
+                "Transcript": "That would pour on your head."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "14:07",
+                "Transcript": "That would be hot."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "14:07",
+                "Transcript": "That would be hit on your head."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "14:07",
+                "Transcript": "Yeah."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "14:11",
+                "Transcript": "Ouch. I would burn my head down."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "14:15",
+                "Transcript": "You'd have to stay inside until all of the food came down. Maybe you'd put out pots and pans that would collect it. And then when it's done you go outside and grab it and go back inside."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "14:29",
+                "Transcript": "What if there's not enough food for everyone?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "14:29",
+                "Transcript": "I think there will be. It's rain. You know how much rain there is."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "14:32",
+                "Transcript": "But, no, pails, and they would pick it up from the ground."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 15,
+        "Lines": [
+            {
+                "Speaker": "parent",
+                "Timestamp": "14:39",
+                "Transcript": "I think there'd be a lot. The children began school again and the adults all tried to find places for themselves in the new land. The biggest change they had to make was getting used to buying food at a supermarket. They found it was odd the food was kept on shelves , packaged in boxes, cans, and bottles. Meat had to be cooked. It was kept in large refrigerators. Nothing came down from the sky except rain and snow. The clouds above their heads were not made of fried eggs. No one ever git hit by a hamburger again. And nobody dared to go back to Chewandswallow to find out what happened to it. They were too afraid. Henry and I were awake until the very end of Grandpa's story. I remember his kiss goodnight."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "15:23",
+                "Transcript": "Next morning we woke up to see snow falling outside of our window. We ran downstairs for breakfast and ate it a little faster than usual so we could go sledding with Grandpa. It's funny but even as we were sliding down the hill we thought we saw a giant pat of butter at the top and it could almost smell like mashed potatoes."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "15:46",
+                "Transcript": "That's funny."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "15:48",
+                "Transcript": "You like that book?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "15:50",
+                "Transcript": "Mmm, that's a meatball falling from the sky."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 16,
+        "Lines": [
+            {
+                "Speaker": "parent",
+                "Timestamp": "15:52",
+                "Transcript": "Oh yeah?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "15:53",
+                "Transcript": "No, no, the dog's going to catch it. Who do you think is going to catch it, the person?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "15:59",
+                "Transcript": "I think the dog's going to get it."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "15:59",
+                "Transcript": "'cause it's more like it's aiming that way."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "16:04",
+                "Transcript": "You want to go back to the book shelf and do another one? Huh?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "16:05",
+                "Transcript": "I like that one."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "16:05",
+                "Transcript": "There you go. Want to do Horton Hatches an Egg?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "16:15",
+                "Transcript": "Who?"
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 17,
+        "Lines": [
+            {
+                "Speaker": "parent",
+                "Timestamp": "16:15",
+                "Transcript": "That one. That's Horton. That's a Dr. Seuss book. I like Dr. Seuss. Sighed Mayzie, a lazy bird hatching an egg: \"I'm tired and I'm bored and I have kinks in my leg from sitting, just sitting here day after day. It's work how! I hate it! I'd much rather play. I'd take a vacation, fly out for a rest, but I could find someone, if I could find someone to stay on the nest. If I could find someone I'd fly away free.\""
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "16:55",
+                "Transcript": "Then Horton the elephant passed by her tree. \"Hello!\" called the lazy bird, smiling her best. \"You've nothing to do and I do need a rest. Would you like to sit on the egg in my nest?\" The elephant laughed, \"Why of all silly things. I haven't feathers and I haven't wings. Me on your egg? Why, that doesn't make much sense. Your egg is so small, ma'am, and I am so immense.\" \"Tut, tut,\" answered Mayzie. \"I know you're not small but I'm sure you could so it. No trouble at all.\""
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "17:29",
+                "Transcript": "He can use his nose."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "17:31",
+                "Transcript": "Yeah. Just sit on it softly. \"You're gentle and kind come be a good fellow. I know you won't mind.\" \"I can't,\" said the elephant. \"Please,\" begged the bird. \"I won't be gone long, sir. I give you my word. I'll hurry right back. Why, I'll ever be missed.\" \"Very well,\" said the elephant. \"Since you insist. You want a vacation. Go fly off and take it. I'll sit on your egg and I'll try not to break it. I'll stay and be faithful. I mean what I say.\" \"Toodle-oo!\" Sang out Mayzie and fluttered away. \"Hmmm. The first thing to do,\" murmured Horton, \"Let's see. The first thing to do is to prop up this tree and make it much stronger. That has to be done before I get on it. I must weigh a ton.\" Then carefully, tenderly, gently he crept, up the trunk where the little egg slept."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "18:32",
+                "Transcript": "I can't watch!"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "18:32",
+                "Transcript": "Do you know this book?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "18:32",
+                "Transcript": "No I don't know it,"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "18:38",
+                "Transcript": "I don't know it either. Then Horton the elephant smiled, \"Now that's that.\" And he sat and he sat and he sat,"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "18:45",
+                "Transcript": "I think it broke."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "18:50",
+                "Transcript": "And he sat all that day and he kept the egg warm. And he sat all that night through the terrible storm. It poured and it lightened and it thundered. It rumbled. \"This isn't much fun,\" the poor elephant grumbled, \"I wish she'd come back 'cause I'm cold and I'm wet. I hope that Mayzie bird doesn't forget.\" But Mayzie by this time was far beyond reach, enjoying the sunshine way off in Palm Beach, and having such fun, such a wonderful rest decided she'd never go back to her nest. That's not a good mama, is it."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "19:29",
+                "Transcript": "I wouldn't doubt."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "19:33",
+                "Transcript": "So Horton kept sitting there day after day. Soon it was autumn. The leaves blew away, and then came winter. The snow and the sleet and icicles hung from his trunk and his feet. But, Horton kept sitting and said with a sneeze, \"I'll stay on this egg and I won't let it freeze. I meant what i said and I said what I meant. An elephant's faithful, 100%.\""
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "19:59",
+                "Transcript": "Ah."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "20:02",
+                "Transcript": "He's doing a good job?"
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "20:03",
+                "Transcript": "I would say, no, no. I'd let her sit on it."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "20:08",
+                "Transcript": "So, poor Horton sat there the whole winter through. And then came the springtime. With troubles anew. His friends gathered 'round and they shouted with glee, \"Look Horton the elephant's up in a tree.\" They taunted. They teased him. They yelled, \"How absurd! Old Horton the elephant thinks he's a bird.\" They laughed and they laughed and they all ran away. And Horton was lonely. He wanted to play. But he sat on the egg and continued to say, \"I meant what I said and I said what I meant. An elephant's faithful 100%.\" Not matter what happens this egg must be tended but Horton;s troubles were far, far from ended. For while Horton sat there so faithful, so kind, three hunters came sneaking up softly behind."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 18,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "21:13",
+                "Transcript": "I can't, I can't, I can't, I can't."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "21:16",
+                "Transcript": "He heard the men's footsteps. He turned with a start. Three rifles were aiming right straight at his heart. Did he run? He did not, Horton stayed on that nest. He held his head high. He threw out his chest and he looked at the hunters as much as to say, \"Shoot if you must be I won't run away. I meant what I said and I said what I meant. An elephant's faithful 100%.\" But the men didn't shoot, much to Horton's surprise. They dropped their three guns and stared with wide eyes. \"Look,\" they all shouted, \"Can such a thing be? An elephant sitting on top of a tree? It's strange, it's amazing. It's wonderful, new. Don't shoot him. We'll catch him. That's just what we'll do. Let's take him alive. Why, he's terribly funny. We'll send him back home to a circus for money.\" And the first thing he knew they had built a big wagon with ropes on the front for pullers to drag on. They dug up his tree and they put it inside with Horton so sad that he practically cried."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "22:41",
+                "Transcript": "That's kind of purple."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "22:42",
+                "Transcript": "Yeah, you're right. \"We're off,\" the men shouted. And off they went with Horton unhappy 100%. Up out of the jungle, up into the sky, up over the mountains 10,000 feet high. Then down, down the mountains, and down to the sea went the cart with the elephant, egg, nest, and tree."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "23:15",
+                "Transcript": "Wait, the tree's in there?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "23:18",
+                "Transcript": "Then out of the wagon and onto a ship. And over the ocean, and, ooo, what a trip! Rolling and tossing, and splashing with the spray and Horton said day after say after day, \"I meant what I said and I said what I meant. But, oh, I am seasick 100%.\""
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "23:35",
+                "Transcript": "Oh he's sick."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "23:39",
+                "Transcript": "After bobbing around for two weeks like a cork, they landed at last in the town of New York. \"All ashore,\" the men shouted, and down with a lurch, went Horton the elephant still on his perch tied onto the board that could just scarcely hold him. BUMP! Horton landed and then the men sold him. Sold to a circus! Then week after week they showed him to people at ten cents a peek. They took him to Boston, to Kalamazoo, Chicago, Weehawken, and Washington too. To Dayton, Ohio, St. Paul, Minnesota, to Wichita, Kansas, to Drake, North Dakota, and everywhere thousands of folks flocked [crosstalk 00:24:20] to see and laugh at the elephant up in the tree. Poor Horton grew sadder the farther he went, but he said as he sat in the hit, noisy tent, \"I meant what I said and I said what I meant. An elephant's faithful 100%."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "24:38",
+                "Transcript": "Then one day the circus happened to reach a town way down south not so far from Palm Beach, and dawdling along way up high in the sky, who of all people should chance to fly by, but that old good-for-nothing bird run away Mayzie, still on vacation and still just as lazy. In spying the flags and tents down below, she sang out, \"What fun! Why, I'll go to the show.\" And she swooped from the clouds through an open tent door, \"Good gracious!\" gasped Mayzie. \"I seen you before.\""
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "25:14",
+                "Transcript": "Poor Horton looked up with his face white as chalk. He started to speak. Before he could talk, there rang out the noisiest ear-splitting squeaks from the egg that he'd sat on for 51 weeks. A thumping, a bumping, a wild alive scratching. \"My egg!\" shouted Horton, \"Why, it's hatching!\" \"But it's mine,\" screamed the bird, when she heard the egg crack. The work was all done now she wanted it back. \"It's my egg,\" she sputtered. \"You stole it from me. Get off my nest and get out of my tree.\" Poor Horton backed down with a sad, heavy heart, but at that very instant the egg burst apart. And out of the pieces of red and white shell, from the egg that he'd sat on so long and so well, Horton the elephant saw something whiz. It had ears and a tail and a trunk just like his. And the people came shouting, \"What's all this about?\" They looked and they stared with their eyes popping out."
+            }
+        ]
+    },
+    {
+        "Interaction Chunk": 19,
+        "Lines": [
+            {
+                "Speaker": "child",
+                "Timestamp": "26:26",
+                "Transcript": "What is that?"
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "26:28",
+                "Transcript": "I think that is, uh, it makes the room moist. It's a vaporizer. All right, this book's almost over. One more page. They looked and they stared with their eyes popping out. Then they cheered and they cheered and they cheered more and more. They'd never seen anything like it before. \"My goodness, my gracious!\" They shouted, \"My word! Something brand new. It's an elephant bird!\""
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "26:54",
+                "Transcript": "That's kazunkie."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "26:54",
+                "Transcript": "And it should be, it should be, it should be like that because Horton was faithful. He sat and he sat. He meant what he said and he said what he meant. And they sent hum home happy 100%."
+            },
+            {
+                "Speaker": "Interviewer",
+                "Timestamp": "27:10",
+                "Transcript": "I think you're at the end of it."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "27:15",
+                "Transcript": "Okay. That was a great book."
+            },
+            {
+                "Speaker": "child",
+                "Timestamp": "27:22",
+                "Transcript": "Do we get to read another book? That [crosstalk 00:27:27] alien dog."
+            },
+            {
+                "Speaker": "parent",
+                "Timestamp": "27:27",
+                "Transcript": "Which book did you like better?"
+            }
+        ]
+    }
+]
