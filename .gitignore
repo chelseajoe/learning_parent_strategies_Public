@@ -4,7 +4,9 @@ No*
 DAMI_processing/DAMI
 DAMI_processing/CSV_FILES
 DAMI_processing/OUTPUT_FRAMES
+DAMI_processing/CHUNK*
 DAMI_processing/OLD*
+DAMI_processing/BATCH*
 old*
 PICCOLO
 output.txt
