@@ -198,10 +198,15 @@ def process_and_save_json(input_file_path, output_file_path):
     output_to_json_file(output_file_path, processed_data)
 
 def main():
-    input_file = 'ANNOTATIONS/p10/s1/p10_s1_chunk_annotations.txt'
+    # input_file = 'ANNOTATIONS/p10/s1/p10_s1_chunk_annotations.txt'
+    # output_folder = 'ANALYSIS'
+    # intermediate_json_path = os.path.join(output_folder, 'intermediate/p10/s1/p10_s1_intermediate_analysisTEST.json')
+    # final_json_path = os.path.join(output_folder, 'p10/s1/p10_s1_analysisTEST.json')
+
+    input_file = 'ANNOTATIONS/p11/s1/p11_s1_chunk_annotations.txt'
     output_folder = 'ANALYSIS'
-    intermediate_json_path = os.path.join(output_folder, 'intermediate/p10/s1/p10_s1_intermediate_analysisTEST.json')
-    final_json_path = os.path.join(output_folder, 'p10/s1/p10_s1_analysisTEST.json')
+    intermediate_json_path = os.path.join(output_folder, 'intermediate/p11/s1/p11_s1_intermediate_analysis.json')
+    final_json_path = os.path.join(output_folder, 'p11/s1/p11_s1_analysis.json')
 
     frames_data = parse_text_data(input_file, output_folder)
 

@@ -88,7 +88,7 @@ def split_video_to_frames(csv_file, video_path, base_output_folder):
 # Usage
 # csv_file = 'csv_files/p10_s2_output.csv'
 # video_path = 'DAMI/p10/s2/p10_s2_mainvid.mp4'
-csv_file = 'CSV_FILES/p10/s1/p10_s1_output.csv'
-video_path = 'DAMI/p10/s1/p10_s1_vid4.mp4'
+csv_file = 'CSV_FILES/p11/s1/p11_s1_output.csv'
+video_path = 'DAMI/p11/s1/p11_s1_vid1.mp4'
 base_output_folder = 'OUTPUT_FRAMES'
 split_video_to_frames(csv_file, video_path, base_output_folder)

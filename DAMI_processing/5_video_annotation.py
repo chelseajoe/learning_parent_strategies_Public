@@ -305,9 +305,13 @@ async def process_frames(folder_path, output_file, base_prompt, json_file, frame
 def main():
     print(f"Current working directory: {os.getcwd()}")
 
-    output_folder = 'OUTPUT_FRAMES/p10/s1'
-    output_file = 'ANNOTATIONS/p10/s1/p10_s1_chunk_annotations.txt'
-    json_file = 'CHUNK_DATA/p10/s1/p10_s1_chunk_data.json'
+    # output_folder = 'OUTPUT_FRAMES/p10/s1'
+    # output_file = 'ANNOTATIONS/p10/s1/p10_s1_chunk_annotations.txt'
+    # json_file = 'CHUNK_DATA/p10/s1/p10_s1_chunk_data.json'
+
+    output_folder = 'OUTPUT_FRAMES/p11/s1'
+    output_file = 'ANNOTATIONS/p11/s1/p11_s1_chunk_annotations.txt'
+    json_file = 'CHUNK_DATA/p11/s1/p11_s1_chunk_data.json'
 
     base_prompt = ""
     asyncio.run(process_frames(output_folder, output_file, base_prompt, json_file))

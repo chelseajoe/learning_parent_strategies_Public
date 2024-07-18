@@ -1,0 +1,977 @@
+[
+    {
+        "query": "The scene depicts a parent and child engaged in selecting a storybook to read from a tablet. The child is [excited], as indicated by their smiling and focused attention on the tablet, indicating a high level of engagement and anticipation in the decision-making process.",
+        "results": [
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9471986547248628
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.936939442716091
+            },
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.9352450287704757
+            },
+            {
+                "context": "In this scene, a parent and child are reading a storybook on a tablet. The child shows signs of [engagement], as indicated by pointing at the screen, looking at the parent, and thinking deeply.",
+                "score": 0.9341356710341083
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9329147137112401
+            }
+        ]
+    },
+    {
+        "query": "The scene involves a parent and child discussing and selecting a storybook to read on a tablet. The child is [engaged], apparent from their enthusiasm and focus on the tablet, while expressing interest in the activity.",
+        "results": [
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9687424825907178
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9610193175796535
+            },
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.9551439626035378
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9550776340006938
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9535940122495496
+            }
+        ]
+    },
+    {
+        "query": "A parent and child are choosing a storybook to read on a tablet. The child is [happy], shown by their smiling and excitement during the decision-making process.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child involved in reading storybooks on a tablet, with the child showing signs of [calm engagement], sitting quietly and listening attentively.",
+                "score": 0.9037532776164162
+            },
+            {
+                "context": "The parent and child are reading a storybook on a tablet, with the child lying calmly on the parent's lap, absorbed in the story. The child is [content], exhibiting a relaxed and focused demeanor.",
+                "score": 0.9011477067579121
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet. The child exhibits [anticipation] and [interest] as they navigate the tablet and listen to the parent reading aloud.",
+                "score": 0.8996387652875251
+            },
+            {
+                "context": "The parent and child are engaged in a relaxed reading session with a digital storybook. The child is [calm], lying on the parent's lap with a steady gaze on the tablet.",
+                "score": 0.8987236307658081
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.8970185589358756
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child engaged in a reading activity, using a tablet to read a storybook together. The child shows signs of [attention] and [engagement] with both the story and the parent's narration.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9708930676828347
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9687678576276995
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9670486639693378
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9641566341523953
+            },
+            {
+                "context": "In this scene, a parent and child are reading a storybook on a tablet. The child shows signs of [engagement], as indicated by pointing at the screen, looking at the parent, and thinking deeply.",
+                "score": 0.9607540769252623
+            }
+        ]
+    },
+    {
+        "query": "This scene depicts a parent and child reading a storybook on a tablet together. The child shows signs of [distraction], initially focusing more on their arm than on the storybook, yet gradually becomes more engaged with the story as it progresses.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9551481246048282
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9538035031600731
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.9522354718080738
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9506482214931535
+            },
+            {
+                "context": "The scene depicts a parent and child involved in reading storybooks on a tablet, with the child showing signs of [calm engagement], sitting quietly and listening attentively.",
+                "score": 0.9485960387555975
+            }
+        ]
+    },
+    {
+        "query": "The scene is a parent and child reading from a tablet. The child shows signs of [initial distraction], focusing on their arm but gradually becomes more interested in the story being read by the parent.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9437024261269142
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9431290024478554
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [curiosity], as they are touching their face, looking intently at the tablet, and leaning closer to the device, demonstrating interest and engagement with the story being read by the parent.",
+                "score": 0.9360014435290568
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9346362544222283
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9345801885769967
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child reading a storybook on a tablet together. The child is [focused] on the story, showing attentive behaviors such as looking at the tablet, listening intently, and occasionally glancing at the parent.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9688869224747427
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9671476115987512
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9643960572278956
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.9621537790326652
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9562805630091115
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child reading a storybook on a tablet. The child is initially [engaged and interested], indicated by their focused attention on the tablet and slight smiles during the reading session.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9719964063223991
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.971293357376567
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9708305138571105
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9651631693834642
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9631987232136177
+            }
+        ]
+    },
+    {
+        "query": "The scene presents a parent and child reading a storybook together on a tablet. As the story progresses, the child shows signs of [concern] and [worry] in response to the plight of the story\u2019s character.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child engaged with a tablet storybook. The child shows signs of [uncertainty] and is seeking further understanding and direction about the story.",
+                "score": 0.9190042095804923
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet. The child exhibits [anticipation] and [interest] as they navigate the tablet and listen to the parent reading aloud.",
+                "score": 0.9166258418455984
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9161763088277373
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.9160033328930924
+            },
+            {
+                "context": "In this scene, a parent and child are reading a storybook together on a tablet. The child's affect is [contemplative], indicated by their attentive and thoughtful demeanor as they engage with the story being read.",
+                "score": 0.9152730597173002
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child reading a storybook on a tablet together. The child is [attentive], listening intently to the parent read the story and occasionally glancing up at the parent.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.9709968174188004
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.97013750112958
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.966916109496593
+            },
+            {
+                "context": "The scene depicts a parent and child involved in reading storybooks on a tablet, with the child showing signs of [calm engagement], sitting quietly and listening attentively.",
+                "score": 0.9657453648753695
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading storybooks on a tablet. The child appears [calm and engaged], resting their chin on their hand as they listen attentively to the story being read by the parent.",
+                "score": 0.9623866614441121
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [focus] and [engagement] as they listen to the parent read aloud, maintaining consistent eye contact with the tablet and showing no signs of distraction or fidgeting.",
+        "results": [
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9623313595105097
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9608430436541128
+            },
+            {
+                "context": "The setting shows a parent and child reading a storybook on a tablet, with the child demonstrating [intense focus] on the content without signs of distraction, indicating deep engagement.",
+                "score": 0.956585266284599
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9550708641631518
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9548728740739157
+            }
+        ]
+    },
+    {
+        "query": "The scene involves a parent reading a storybook on a tablet to a child who is displaying signs of [attention] and [engagement]. The child is quietly listening to the story without showing signs of fidgeting or distraction, indicating a calm and focused demeanor.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child involved in reading storybooks on a tablet, with the child showing signs of [calm engagement], sitting quietly and listening attentively.",
+                "score": 0.9594762819429992
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9548256590668714
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9530765121701087
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.951080874698186
+            },
+            {
+                "context": "The scene depicts a quiet and focused interaction between a parent and child as they explore a storybook on a tablet. The child demonstrates [concentration] on the content, closely watching the tablet without visible signs of distraction.",
+                "score": 0.9505582116298025
+            }
+        ]
+    },
+    {
+        "query": "The scene describes a parent reading a story from a tablet to a child who is showing signs of [engagement] and [focus]. The child is looking at the tablet intently, with their hands resting quietly on their lap, indicating concentration on the story being read.",
+        "results": [
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9684715284041754
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9624763683769895
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9610001117876227
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9597587422191851
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9574374966349135
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent reading a storybook on a tablet with a child. The child shows signs of [engagement] as they are consistently focused on the tablet and the progression of the story. The child exhibits attentive behavior, keeps looking at the tablet, and responds to the narrative with physical cues such as eyes widening slightly.",
+        "results": [
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9683069423265623
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9611142586242803
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9605471780459223
+            },
+            {
+                "context": "In this scene, a parent and child are reading a storybook on a tablet. The child shows signs of [engagement], as indicated by pointing at the screen, looking at the parent, and thinking deeply.",
+                "score": 0.9578224527783219
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9561757543335769
+            }
+        ]
+    },
+    {
+        "query": "The current scene involves a parent reading a storybook to a child using a tablet. The child is [focused] on the tablet and is following the story attentively, indicating a high level of engagement with the content.",
+        "results": [
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9682519828361041
+            },
+            {
+                "context": "The scene continues with the parent reading a storybook on a tablet to their child. The child's affect remains [engaged], as evidenced by their continuous focus on the tablet and the story.",
+                "score": 0.9496470336434893
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9458720036426413
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9458052957181607
+            },
+            {
+                "context": "The setting shows a parent and child reading a storybook on a tablet, with the child demonstrating [intense focus] on the content without signs of distraction, indicating deep engagement.",
+                "score": 0.9431618717213378
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child in a reading session using a tablet. The child remains [attentive] and appears to be interested in the story as they listen and watch the screen without losing focus.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9629578987554045
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9626191803389906
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9625008135491259
+            },
+            {
+                "context": "The scene continues with the parent reading a storybook on a tablet to their child. The child's affect remains [engaged], as evidenced by their continuous focus on the tablet and the story.",
+                "score": 0.9554704110186789
+            },
+            {
+                "context": "The scene depicts a parent and child involved in reading storybooks on a tablet, with the child showing signs of [calm engagement], sitting quietly and listening attentively.",
+                "score": 0.9541292561522138
+            }
+        ]
+    },
+    {
+        "query": "The current scene features a parent reading a tablet storybook while the child listens attentively. The child remains [engrossed] in the story, showing consistent engagement through their focused attention and physical reactions to the plot.",
+        "results": [
+            {
+                "context": "The scene continues with the parent reading a storybook on a tablet to their child. The child's affect remains [engaged], as evidenced by their continuous focus on the tablet and the story.",
+                "score": 0.952397263022795
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9466679574134818
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9372175118174977
+            },
+            {
+                "context": "The child and parent are nearing the end of the storybook on the tablet. The child's affect remains [engaged], indicated by their steady attention and interest in the unfolding narrative.",
+                "score": 0.9350174832037215
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9342933160526072
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child reading a storybook on a tablet. The child sits with hands on their lap, initially showing a potential sign of [boredom]. The child briefly glances up at the parent but ultimately continues to look at the tablet.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet. The child initially expresses confusion or a mild sense of [boredom] with the illustrations in the storybook but stays physically close to the parent, indicating a desire for comfort and engagement.",
+                "score": 0.9652450396366967
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9493602348760849
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.9490735625492259
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9474711815156902
+            },
+            {
+                "context": "The current scene depicts a parent and child reading a storybook on a tablet together. The child appears to be [calm and relaxed], lying on the parent's lap and attentively looking at the tablet.",
+                "score": 0.9467119587233271
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child reading a storybook on a tablet together. The child is [engaged], attentively listening and looking at the tablet screen while occasionally shifting slightly to get more comfortable.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9742444612700535
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9694192845866398
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9678819993606292
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9677160514129737
+            },
+            {
+                "context": "The scene depicts a parent and child involved in reading storybooks on a tablet, with the child showing signs of [calm engagement], sitting quietly and listening attentively.",
+                "score": 0.9652945964280114
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child is [engaged], attentively following the narrative as read by the parent, and occasionally adjusting their seating for comfort while maintaining focus.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.976396252815709
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.970430698315424
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading storybooks on a tablet. The child appears [calm and engaged], resting their chin on their hand as they listen attentively to the story being read by the parent.",
+                "score": 0.9640717293260701
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9615692680982698
+            },
+            {
+                "context": "The scene depicts a parent and child involved in reading storybooks on a tablet, with the child showing signs of [calm engagement], sitting quietly and listening attentively.",
+                "score": 0.9607072254347864
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child reading a storybook on a tablet. The child is [very focused] on the story, maintaining continuous attention and engagement with the content on the tablet.",
+        "results": [
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9748968997533582
+            },
+            {
+                "context": "The scene continues with the parent reading a storybook on a tablet to their child. The child's affect remains [engaged], as evidenced by their continuous focus on the tablet and the story.",
+                "score": 0.9672956919168162
+            },
+            {
+                "context": "The setting shows a parent and child reading a storybook on a tablet, with the child demonstrating [intense focus] on the content without signs of distraction, indicating deep engagement.",
+                "score": 0.9618731389734994
+            },
+            {
+                "context": "The scene depicts a quiet and focused interaction between a parent and child as they explore a storybook on a tablet. The child demonstrates [concentration] on the content, closely watching the tablet without visible signs of distraction.",
+                "score": 0.9606761553048997
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9578412976879623
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child reading a storybook on a tablet together. The child shows signs of [disengagement] as evidenced by picking at a sweater sleeve while looking at the tablet.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9343344092299054
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9327585069539467
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9308634213258589
+            },
+            {
+                "context": "In this scene, a parent and child are reading a storybook on a tablet. The child shows signs of [engagement], as indicated by pointing at the screen, looking at the parent, and thinking deeply.",
+                "score": 0.9298847820401481
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet. The child initially expresses confusion or a mild sense of [boredom] with the illustrations in the storybook but stays physically close to the parent, indicating a desire for comfort and engagement.",
+                "score": 0.9289733827828803
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child reading a storybook on a tablet. The child is demonstrating [focused] attention, as evidenced by continuously looking at the tablet while the parent reads aloud.",
+        "results": [
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9619656460376247
+            },
+            {
+                "context": "The scene depicts a quiet and focused interaction between a parent and child as they explore a storybook on a tablet. The child demonstrates [concentration] on the content, closely watching the tablet without visible signs of distraction.",
+                "score": 0.9602052986158701
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9542560338725345
+            },
+            {
+                "context": "The setting shows a parent and child reading a storybook on a tablet, with the child demonstrating [intense focus] on the content without signs of distraction, indicating deep engagement.",
+                "score": 0.9541650019481072
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.952641124688279
+            }
+        ]
+    },
+    {
+        "query": "The scene illustrates a parent and child engaged in reading a storybook on a tablet. The child exhibits [focused] attention, staring at the tablet while the parent reads aloud energetically.",
+        "results": [
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9660485482301326
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9580615676549924
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9559135271788544
+            },
+            {
+                "context": "The setting shows a parent and child reading a storybook on a tablet, with the child demonstrating [intense focus] on the content without signs of distraction, indicating deep engagement.",
+                "score": 0.9554679665014654
+            },
+            {
+                "context": "The scene depicts a quiet and focused interaction between a parent and child as they explore a storybook on a tablet. The child demonstrates [concentration] on the content, closely watching the tablet without visible signs of distraction.",
+                "score": 0.9551625282903069
+            }
+        ]
+    },
+    {
+        "query": "The current scene shows a parent reading a storybook aloud from a tablet while the child displays [focused] attention by continuously looking at the tablet.",
+        "results": [
+            {
+                "context": "The scene continues with the parent reading a storybook on a tablet to their child. The child's affect remains [engaged], as evidenced by their continuous focus on the tablet and the story.",
+                "score": 0.9460096868600143
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9390192000292853
+            },
+            {
+                "context": "The setting shows a parent and child reading a storybook on a tablet, with the child demonstrating [intense focus] on the content without signs of distraction, indicating deep engagement.",
+                "score": 0.9388518348938486
+            },
+            {
+                "context": "The current scene depicts a parent and child reading a storybook on a tablet together. The child appears to be [calm and relaxed], lying on the parent's lap and attentively looking at the tablet.",
+                "score": 0.9373300439030218
+            },
+            {
+                "context": "The scene portrays a parent and child in a storybook reading session on a tablet. The child is [inquisitive], keenly pointing at the tablet and directing their attention towards the parent for guidance and clarification.",
+                "score": 0.9352548858646712
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged], focusing intently on the narrative without showing signs of distraction or disengagement.",
+        "results": [
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9692812273159864
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9631375496971821
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.960820047279894
+            },
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.959439806479791
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9588259850464345
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child in a relaxed setting, reading a storybook on a tablet. The child is [attentive], showing a steady focus on the story without apparent signs of losing interest or getting distracted.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child involved in reading storybooks on a tablet, with the child showing signs of [calm engagement], sitting quietly and listening attentively.",
+                "score": 0.9639036977435913
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9635779526539846
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9629228589192238
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.9617736170932749
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9616342559044956
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child engaged in reading and interacting with storybooks on a tablet. The child is [curious] and focused on the tablet, eager to explore and understand the content.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [curiosity], as they are touching their face, looking intently at the tablet, and leaning closer to the device, demonstrating interest and engagement with the story being read by the parent.",
+                "score": 0.9679052960311436
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9674495463531272
+            },
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.967086714671009
+            },
+            {
+                "context": "The scene depicts a parent and child engaged with a storybook on a tablet. The child is [inquisitive] and appears engaged in the activity, demonstrated by their questions and physical gestures towards the content on the tablet.",
+                "score": 0.9668392810601136
+            },
+            {
+                "context": "The scene portrays a parent and child in a storybook reading session on a tablet. The child is [inquisitive], keenly pointing at the tablet and directing their attention towards the parent for guidance and clarification.",
+                "score": 0.964827135194465
+            }
+        ]
+    },
+    {
+        "query": "In this scene, the parent and child are reading a digital storybook on a tablet. The child shows signs of [engagement] with the story and expresses curiosity about the content.",
+        "results": [
+            {
+                "context": "In this scene, a parent and child are reading a storybook on a tablet. The child shows signs of [engagement], as indicated by pointing at the screen, looking at the parent, and thinking deeply.",
+                "score": 0.9663394141684184
+            },
+            {
+                "context": "In this scene, a parent and child are engaging with a storybook on a tablet. The child shows a clear sign of [curiosity and engagement], indicated by pointing at the screen and orienting their body towards the parent in an attentive manner.",
+                "score": 0.9635871749112744
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9618022664135502
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9609755770534333
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [curiosity], as they are touching their face, looking intently at the tablet, and leaning closer to the device, demonstrating interest and engagement with the story being read by the parent.",
+                "score": 0.9592634746023335
+            }
+        ]
+    },
+    {
+        "query": "This scene depicts a parent and child engaged in choosing a storybook on a tablet. The child is [engaged], focused on the tablet, and appears curious and attentive.",
+        "results": [
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9589096676141529
+            },
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.9572027966406246
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9540049387541749
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9537896052367766
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.9517374172308645
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child reading from a tablet, and the child is [curious] and is focused on the content of the tablet.",
+        "results": [
+            {
+                "context": "The scene portrays a parent and child in a storybook reading session on a tablet. The child is [inquisitive], keenly pointing at the tablet and directing their attention towards the parent for guidance and clarification.",
+                "score": 0.9581309677094216
+            },
+            {
+                "context": "The scene involves a parent and child engaging with a storybook on a tablet. The child is [curious], consistently pointing at the content and looking towards the parent for conversation and validation.",
+                "score": 0.9489606248002849
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [curiosity], as they are touching their face, looking intently at the tablet, and leaning closer to the device, demonstrating interest and engagement with the story being read by the parent.",
+                "score": 0.9448223153070533
+            },
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.9424922267871285
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.9420360925191194
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child engaged in selecting and interacting with content on a tablet. The child is [engaged], shown by their active involvement in pointing at the tablet and considering options for which story to read.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.964239768811083
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9453752714228041
+            },
+            {
+                "context": "In this scene, a parent and child are reading a storybook on a tablet. The child shows signs of [engagement], as indicated by pointing at the screen, looking at the parent, and thinking deeply.",
+                "score": 0.9438636536275367
+            },
+            {
+                "context": "The scene depicts a parent and child engaged with a storybook on a tablet. The child is [inquisitive] and appears engaged in the activity, demonstrated by their questions and physical gestures towards the content on the tablet.",
+                "score": 0.9402780104904723
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9400168159335381
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child engaged in a shared reading activity on a tablet. The child is [engaged], indicated by their act of pointing at the tablet and considering their options for engagement.",
+        "results": [
+            {
+                "context": "In this scene, a parent and child are reading a storybook on a tablet. The child shows signs of [engagement], as indicated by pointing at the screen, looking at the parent, and thinking deeply.",
+                "score": 0.9629887634194046
+            },
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.9568137733263349
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9532236046714118
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.950211443165323
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9498955736091581
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child engaged in selecting and interacting with content on a tablet. The child is highly [engaged] and eagerly pointing at the screen, considering various storybook options.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.9674092302583485
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9486395764501092
+            },
+            {
+                "context": "The scene involves a parent and child engaging with a storybook on a tablet. The child is [curious], consistently pointing at the content and looking towards the parent for conversation and validation.",
+                "score": 0.945036126269549
+            },
+            {
+                "context": "The scene portrays a parent and child in a storybook reading session on a tablet. The child is [inquisitive], keenly pointing at the tablet and directing their attention towards the parent for guidance and clarification.",
+                "score": 0.9434168654231847
+            },
+            {
+                "context": "In this scene, a parent and child are reading a storybook on a tablet. The child shows signs of [engagement], as indicated by pointing at the screen, looking at the parent, and thinking deeply.",
+                "score": 0.9429829425443409
+            }
+        ]
+    },
+    {
+        "query": "The scene shows a parent-child interaction focused on selecting a storybook on a tablet. The child is [interested], actively pointing at the screen and awaiting the parent's guidance to finalize the choice.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.9464784441091525
+            },
+            {
+                "context": "The scene involves a parent and child engaging with a storybook on a tablet. The child is [curious], consistently pointing at the content and looking towards the parent for conversation and validation.",
+                "score": 0.9439148831219016
+            },
+            {
+                "context": "The scene portrays a parent and child in a storybook reading session on a tablet. The child is [inquisitive], keenly pointing at the tablet and directing their attention towards the parent for guidance and clarification.",
+                "score": 0.9385041866139064
+            },
+            {
+                "context": "In this scene, a parent and child are engaging with a storybook on a tablet. The child shows a clear sign of [curiosity and engagement], indicated by pointing at the screen and orienting their body towards the parent in an attentive manner.",
+                "score": 0.9309830604237131
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9283678800837486
+            }
+        ]
+    },
+    {
+        "query": "The scene involves the parent helping the child select a storybook on a tablet. The child is [focused] and interactive, pointing repeatedly at the options on the screen.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.9415847629918405
+            },
+            {
+                "context": "The scene involves a parent and child engaging with a storybook on a tablet. The child is [curious], consistently pointing at the content and looking towards the parent for conversation and validation.",
+                "score": 0.939288771272361
+            },
+            {
+                "context": "The scene portrays a parent and child in a storybook reading session on a tablet. The child is [inquisitive], keenly pointing at the tablet and directing their attention towards the parent for guidance and clarification.",
+                "score": 0.9386347364771689
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9267519330333485
+            },
+            {
+                "context": "In this scene, a parent and child are engaging with a storybook on a tablet. The child shows a clear sign of [curiosity and engagement], indicated by pointing at the screen and orienting their body towards the parent in an attentive manner.",
+                "score": 0.9246328895889859
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child engaging with a storybook on a tablet. The child is [satisfied] and [considering] their options while interacting with the storybook content.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.9407942777745943
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.934667327186293
+            },
+            {
+                "context": "The scene depicts a parent and child engaged with a storybook on a tablet. The child is [inquisitive] and appears engaged in the activity, demonstrated by their questions and physical gestures towards the content on the tablet.",
+                "score": 0.9337603006645582
+            },
+            {
+                "context": "The scene involves a parent and child engaging with a storybook on a tablet. The child is [curious], consistently pointing at the content and looking towards the parent for conversation and validation.",
+                "score": 0.9308181924890506
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.9300764764438878
+            }
+        ]
+    },
+    {
+        "query": "The scene captures a moment where a parent and child are closely interacting with a tablet storybook. The child appears to be [engaged] and [deliberative], taking their time to explore the content.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child interacting with a storybook on a tablet. The child is [engaged] and pointing at the tablet, indicating curiosity and a desire to interact with the content while seeking the parent's attention and guidance.",
+                "score": 0.9622673595210459
+            },
+            {
+                "context": "The scene depicts a parent and child engaged with a storybook on a tablet. The child is [inquisitive] and appears engaged in the activity, demonstrated by their questions and physical gestures towards the content on the tablet.",
+                "score": 0.9555633553563576
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9553472052437695
+            },
+            {
+                "context": "This scene centers around a parent and child interacting with a tablet as they read a storybook. The child seems to show signs of [engagement], evident through their body language and gestures as they listen and think deeply about the story being read.",
+                "score": 0.9527117101228226
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child exhibits a thoughtful and contemplative affect, suggesting they are engrossed in and attentive to the story.",
+                "score": 0.9491896665801612
+            }
+        ]
+    },
+    {
+        "query": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] with the tablet, holding something in their right hand and seemingly interested in the activity.",
+        "results": [
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child appears [engaged] and attentive, as evidenced by pointing at the tablet and sitting up straight while listening to the parent.",
+                "score": 0.9716227270951455
+            },
+            {
+                "context": "The scene involves a parent and child engaged in reading a storybook on a tablet. The child is [engaged], focusing intently on the tablet, indicating a high level of interest in the story.",
+                "score": 0.9699858752078839
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading a storybook on a tablet. The child shows signs of [engagement], resting their chin on their hand while looking at the tablet and maintaining interest throughout the interaction.",
+                "score": 0.9687686110026166
+            },
+            {
+                "context": "The scene depicts a parent and child reading a storybook on a tablet together. The child is showing signs of [interest and attentiveness], engrossed in the content, and periodically interacting with the parent by answering questions and making observations.",
+                "score": 0.9647053597782268
+            },
+            {
+                "context": "The scene depicts a parent and child engaged in reading storybooks on a tablet. The child appears [calm and engaged], resting their chin on their hand as they listen attentively to the story being read by the parent.",
+                "score": 0.9643218761403383
+            }
+        ]
+    }
+]

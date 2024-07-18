@@ -1,0 +1,553 @@
+PROMPT END ____________________
+1. Prompting the Child:
+
+    Analysis:
+    The parent prompts the child several times during the reading, but many prompts do not engage deeply with the content of the story or provoke detailed responses. While there are some engagement attempts, they often lack creativity and are mostly confined to simple questions or reminding the child to stay focused.
+
+    Quotes:
+    - Line [0]: "Okay, you want to pick a story? Should we do a short story or a long story?"
+    - Line [8]: "Do you ever try on forty-two outfits?"
+    - Line [31]: "Are you losing interest, kiddo?"
+    - Line [34]: "Is that Camilla?"
+
+2. Evaluating the Child's Response:
+
+    Analysis:
+    The parent occasionally acknowledges the child’s responses, but these interactions typically remain minimal and sometimes do not provide clear evaluations. The responses mostly serve to continue the flow of the story without thoroughly assessing the child’s understanding or providing feedback.
+
+    Quotes:
+    - Line [2]: "Long. Okay, let's see what we got here."
+    - Line [10]: "No. But none seem quite right..."
+    - Line [35]: "Yeah."
+
+3. Expanding the Child's Response:
+
+    Analysis:
+    The parent sporadically expands on the child’s responses, but these efforts are limited and do not add substantial depth or new information to the conversation. The expansions that occur are brief and often serve to simply acknowledge the child's answers rather than deeply enriching their understanding or engagement with the story.
+
+    Quotes:
+    - Line [32]: "Just playing with the steam."
+    - Line [81]: "What do you mean show what's happening?"
+    - Line [92]: "Stop playing with the wrist things, Adam, please."
+
+4. Repeating the Prompt:
+
+    Analysis:
+    The parent does not appear to repeat prompts after expanding on the child's response to ensure that the child has learned or retained the new information. Most discussions are not revisited, and prompts are not reinforced, missing an opportunity to consolidate learning through repetition.
+
+    Quotes:
+    - There are no clear instances of repetition after expansion.
+
+    Overall Score: 3/10
+
+    Explanation:
+    The parent engages the child minimally and does not follow through with all steps of the PEER sequence consistently. While there are some attempts at prompting and evaluating, these interactions are often too brief and lack depth. Expansions and repetitions are rare, which limits the reinforcement of learning.
+
+    How the Parent Can Improve:
+
+    Use More Engaging Prompts:
+    Ask the child more open-ended questions that require critical thinking and imagination.
+    Example: "Why do you think Camilla's stripes started appearing?"
+
+    Provide Clear Evaluations:
+    Acknowledge the child's responses explicitly and provide feedback.
+    Example: "That's a good point! Forty-two outfits is a lot to try on!"
+
+    Expand More Often:
+    Add more information to the child's responses and relate it to their world.
+    Example: "Yes, Camilla is worried about what others think. Do you sometimes worry about that too?"
+
+    Repeat Prompts:
+    After expanding, go back and ask the child similar questions to ensure they have understood and retained the new information.
+    Example: "Remember when we talked about Camilla's stripes? Why did they appear again?"
+
+    Make the Reading Interactive:
+    Encourage the child to predict what might happen next or give their opinions about the story events.
+    Example: "What do you think will happen to Camilla now that everyone knows about her stripes?"PROMPT END ____________________
+1. **Prompting the Child**:
+
+    **Analysis**:
+    The parent prompts the child on occasion during the reading, primarily with basic questions. Although these prompts align with dialogic reading principles, incorporating more open-ended and engaging prompts could enrich the interaction.
+    
+    **Quotes**:
+    - Line [8]: "Do you ever try on forty-two outfits?"
+    - Line [31]: "Are you losing interest, kiddo?"
+    - Line [34]: "Is that Camilla?"
+
+2. **Evaluating the Child's Response**:
+
+    **Analysis**:
+    The parent acknowledges the child’s responses and restates them, but the responses are basic and lack detailed evaluations. The evaluations are generally affirmations rather than in-depth feedback.
+
+    **Quotes**:
+    - Line [10]: "No."
+    - Line [36]: "Oh my goodness."
+
+3. **Expanding the Child's Response**:
+
+    **Analysis**:
+    The parent expands on the child’s responses infrequently and does so minimally. The expansions are often limited to affirmations or restatements without adding substantial information or relating it to the child’s experiences.
+
+    **Quotes**:
+    - Line [10]: "No."
+    - Line [36]: "Oh my goodness."
+
+4. **Repeating the Prompt**:
+
+    **Analysis**:
+    There are no clear instances where the parent revisits a prompt to reinforce learning. The parent seldom asks the child similar questions again after an expansion to ensure retention of information.
+
+    **Quotes**:
+    - There are no clear instances of repetition after expansion.
+
+**Overall Score: 3/10**
+
+**Explanation**:
+The parent engages the child minimally, using a few basic prompts and occasional expansions. There is a lack of comprehensive evaluations and almost no repetition to reinforce learning. The interactions could be significantly enhanced with more in-depth and frequent use of the PEER sequence.
+
+**How the Parent Can Improve**:
+
+1. **Use More Engaging Prompts**:
+    - Ask the child open-ended questions that require critical thinking and imagination.
+    - **Example**: "Why do you think Camilla didn't want to go to school with stripes?"
+
+2. **Provide Clear Evaluations**:
+    - Explicitly acknowledge the child's responses and provide detailed feedback.
+    - **Example**: "That's right! You said Camilla looked like a rainbow. Great observation!"
+
+3. **Expand More Often**:
+    - Add more information to the child's responses and relate it to their experiences.
+    - **Example**: "Yes, she’s covered in stripes, just like a rainbow. Remember the time we saw a rainbow after the rain?"
+
+4. **Repeat Prompts**:
+    - After expanding, revisit similar questions to ensure the child retains the new information.
+    - **Example**: "Can you tell me again why Camilla didn’t want to eat lima beans?"
+
+5. **Make the Reading Interactive**:
+    - Encourage the child to predict story events or share their opinions.
+    - **Example**: "What do you think will happen next now that Camilla has stripes?"PROMPT END ____________________
+1. Prompting the Child:
+
+    Analysis:
+    The parent prompts the child a few times during the reading, but the prompts are generally not very engaging or challenging. They are somewhat sporadic and more related to keeping the child focused than deepening understanding or discussion.
+
+    Quotes:
+    - Line [0]: "Okay, you want to pick a story? Should we do a short story or a long story?"
+    - Line [2]: "Okay which one looks like a good one for you?"
+    - Line [8]: "Do you ever try on forty-two outfits?"
+    - Line [34]: "Is that Camilla?"
+
+2. Evaluating the Child's Response:
+
+    Analysis:
+    The parent acknowledges the child's responses occasionally but doesn't always provide clear evaluations. The responses are more about affirmations and acknowledgments rather than thorough evaluations.
+
+    Quotes:
+    - Line [1]: "Long."
+    - Line [10]: "No."
+    - Line [35]: "Yeah."
+
+3. Expanding the Child's Response:
+
+    Analysis:
+    The parent does not often expand on the child's responses. There is minimal rephrasing or addition of new information to enhance the child’s understanding, which indicates limited expansion efforts.
+
+    Quotes:
+    - There are no clear and consistent instances of expansions based on the child's responses.
+
+4. Repeating the Prompt:
+
+    Analysis:
+    The parent does not make consistent efforts to repeat prompts to ensure the child has learned from the expansions. There are almost no instances where the parent revisits a concept to reinforce learning.
+
+    Quotes:
+    - There are no clear instances of repetition after expansion.
+
+    Overall Score: 2/10
+
+    Explanation:
+    The parent minimally engages in dialogic reading practices as outlined by the PEER sequence. The interactions mostly lack depth, evaluation, expansion, and repetition. There are brief prompts, acknowledgments, and affirmations, but they seldom align with the full PEER sequence, leading to limited reinforcement of learning.
+
+    How the Parent Can Improve:
+
+    Use More Engaging Prompts:
+    - Ask the child open-ended questions that require deeper thinking and reasoning.
+    - Example: "Why do you think Camilla was so embarrassed at school?"
+
+    Provide Evaluations:
+    - Offer clear and constructive feedback on the child’s responses to support understanding.
+    - Example: If the child says "Long," the parent can follow with "That's a great choice; long stories give us more time to explore interesting details."
+
+    Expand the Child’s Responses:
+    - Rephrase and add more information to the child’s answers to enhance learning.
+    - Example: If the child says "Camilla has stripes," the parent can say, "Yes, Camilla has colorful stripes, like a rainbow all over her body. I wonder how she got them."
+
+    Repeat the Prompt:
+    - Revisit the initial prompts after expansion to reinforce the learning points.
+    - Example: Repeat questions like, "Do you remember why Camilla got those stripes?" after expanding with additional context and details.
+
+By incorporating these practices, the parent can create more meaningful and educational interactions during the reading sessions.PROMPT END ____________________
+1. Prompting the Child:
+
+    Analysis:
+    The parent prompts the child occasionally during the reading, but the prompts come across as checking understanding or keeping the child engaged. The prompts could benefit from being more varied and challenging.
+
+    Quotes:
+    - Line [8]: "Do you ever try on forty-two outfits?"
+    - Line [31]: "Are you losing interest, kiddo?"
+    - Line [34]: "Is that Camilla?"
+    - Line [64]: "Okay, which one? One of the Dr. Seuss's? The Lorax?"
+
+2. Evaluating the Child's Response:
+
+    Analysis:
+    The parent acknowledges the child's responses with simple affirmations but does not consistently provide thorough evaluations. The responses are brief and more validating than evaluative.
+
+    Quotes:
+    - Line [10]: "No."
+    - Line [32]: "Just playing with the steam."
+    - Line [35]: "Yeah."
+    - Line [70]: "I'm not really a big fan, but that's okay."
+    - Line [110]: "Yeah."
+
+3. Expanding the Child's Response:
+
+    Analysis:
+    The parent does expand on the child's responses occasionally by adding more information or elaborating on their answers. However, these expansions are limited and often miss opportunities to deepen engagement and learning.
+
+    Quotes:
+    - Line [34]: "Oh my goodness. She sprouted roots and berries and crystals and feathers and a long furry tail, but nothing worked."
+    - Line [70]: "I'm not really a big fan, but that's okay."
+
+4. Repeating the Prompt:
+
+    Analysis:
+    The parent does not consistently repeat prompts to ensure that the child has learned from expansions. There are almost no instances where the parent revisits a point to reinforce the child’s learning.
+
+    Quotes:
+    - There are no clear instances of repetition after expansion.
+
+    Overall Score: 4/10
+
+    Explanation:
+    The parent engages the child but primarily sticks to simpler prompts and occasional expansions. The lack of comprehensive evaluations and minimal repetition underscores an area for improvement. The interactions could be enriched by adopting a more thorough and frequent use of the PEER sequence.
+
+    How the Parent Can Improve:
+
+    Use More Engaging Prompts:
+    Ask the child more open-ended questions that prompt them to think critically and use their imagination.
+    Example: "Why do you think Camilla had stripes all over her body?"
+
+    Incorporate CROWD Techniques:
+    Use completion prompts to help the child fill in gaps and understand language structure.
+    Example: "Camilla woke up and looked in the mirror, and she saw that she was covered in…"
+
+    Evaluate More Clearly:
+    Offer clearer evaluations to the child's responses to confirm correction and understanding.
+    Example: "No, forty-two outfits would be too many, right? Do you think that would make you late for school?"
+
+    Expand More Often:
+    Add more information to the child's responses to deepen their understanding and vocabulary.
+    Example: "Yes, that's Camilla. Look at all those crazy colors, like a rainbow! What colors do you see on her?"
+
+    Repeat Prompts:
+    Reinforce learning by repeating prompts after expanding on them.
+    Example: "We just talked about Camilla's stripes. Can you tell me again why she had them?"PROMPT END ____________________
+1. Prompting the Child:
+
+    Analysis:
+    The parent prompts the child a few times during the reading, but the prompts lack diversity and do not fully engage in dialogic reading practices. The prompts are mostly about identifying elements or actions within the story, rather than deeper comprehension or connection to real-life experiences.
+
+    Quotes:
+    - Line [0]: "Okay, you want to pick a story? Should we do a short story or a long story?"
+    - Line [2]: "Okay which one looks like a good one for you?"
+    - Line [8]: "Do you ever try on forty-two outfits?"
+    - Line [34]: "Is that Camilla?"
+
+2. Evaluating the Child's Response:
+
+    Analysis:
+    The parent acknowledges the child's responses but does so in a very basic and sometimes dismissive way. There are minimal evaluations that assess the child’s understanding or provide affirmations that could encourage further discussion.
+
+    Quotes:
+    - Line [10]: "No."
+    - Line [35]: "Yeah"
+    - Line [51]: "It is."
+    - Line [60]: "I choose?"
+
+3. Expanding the Child's Response:
+
+    Analysis:
+    The parent rarely expands on the child's responses, missing opportunities to build on the child's words or delve deeper into the storyline and themes. The expansions that are there are minimal and lack depth.
+
+    Quotes:
+    - Line [6]: "We're ready? Okay. Ready?" 
+    - Line [36]: "Oh my goodness. She sprouted roots and berries and crystals and feathers and a long furry tail, but nothing worked."
+    - Line [68]: "You do?"
+    - Line [119]: "How are you doing?"
+
+4. Repeating the Prompt:
+
+    Analysis:
+    The parent generally does not repeat prompts after evaluating or expanding the child's responses to ensure reinforcement of learning. There are very few instances where the parent goes back to earlier prompts or questions.
+
+    Quotes:
+    - There are no clear instances of repetition after expansion.
+
+Overall Score: 4/10
+
+Explanation:
+The parent engages the child occasionally by using some prompts and minimal expansions, but there is a lack of comprehensive evaluations and very little repetition to reinforce learning. The interactions could be greatly enhanced by more strategic and frequent use of the PEER sequence to deepen the child’s engagement and understanding.
+
+How the Parent Can Improve:
+
+Use More Engaging Prompts:
+Ask the child more open-ended questions that require critical thinking and imagination.
+Example: "Why do you think Camilla turned into different shapes and colors?"
+
+Include Completion Prompts:
+Leave sentences unfinished to encourage the child to fill in the blanks.
+Example: "Camilla was so embarrassed. Her friends started calling her..."
+
+Utilize Recall Prompts:
+Ask questions about previous story events to strengthen understanding of the plot.
+Example: "Do you remember why Camilla didn't want to eat Lima beans at first?"
+
+Incorporate Wh- Prompts:
+Use questions starting with what, where, when, why, and how to introduce new vocabulary and concepts.
+Example: "What do you think the doctors were trying to find out about Camilla?"
+
+Apply Distancing Prompts:
+Encourage the child to relate the story to their own experiences or the real world.
+Example: "Can you think of a time when you wanted something that others didn't like?"
+
+Overall, increase the frequency and depth of interactions to encourage the child’s verbal skills, critical thinking, and engagement with the story.PROMPT END ____________________
+1. Prompting the Child:
+
+    Analysis:
+    The parent prompts the child throughout the reading, yet the prompts are often situational and not geared towards engaging the child in deeper thinking about the story. More open-ended and recall prompts could encourage better engagement.
+
+    Quotes:
+    - Line [0]: "Okay, you want to pick a story? Should we do a short story or a long story?"
+    - Line [8]: "Do you ever try on forty-two outfits?"
+    - Line [34]: "Is that Camilla?"
+    - Line [64]: "Okay, which one? One of the Dr. Seuss's? The Lorax?"
+
+2. Evaluating the Child's Response:
+
+    Analysis:
+    The parent often acknowledges the child's responses but doesn't always explicitly evaluate them. There are instances where the parent simply repeats or acknowledges what the child says without providing additional commentary to affirm understanding.
+
+    Quotes:
+    - Line [2]: "Long. Okay, let's see what we got here."
+    - Line [8]: "No."
+    - Line [35]: "Yeah"
+    - Line [119]: "Good."
+
+3. Expanding the Child's Response:
+
+    Analysis:
+    The parent occasionally expands on the child's responses by adding additional details or context, but this does not happen consistently. This lack of expansion misses opportunities to enhance the child's understanding and vocabulary.
+
+    Quotes:
+    - Line [2]: "Long. Okay, let's see what we got here."
+    - Line [35]: "Yeah. Oh my goodness. She sprouted roots and berries and crystals and feathers and a long furry tail, but nothing worked."
+    - Line [64]: "Okay, which one? One of the Dr. Seuss's? The Lorax?"
+
+4. Repeating the Prompt:
+
+    Analysis:
+    There is a lack of repetition to reinforce the child's learning after expansions. The parent seldom revisits previous points or expands on them again in later interactions to ensure retention and understanding.
+
+    Quotes:
+    - There are no clear instances of repetition after expansion.
+
+Overall Score: 4/10
+
+Explanation:
+The parent makes some attempts to engage the child using prompts and occasional expansions, but the approach lacks consistency and depth. The interaction could benefit from more thoughtful use of PEER sequences and incorporating more CROWD prompts to improve the child's comprehension and engagement with the story.
+
+How the Parent Can Improve:
+
+Use More Engaging Prompts:
+Ask the child more open-ended questions that require critical thinking and imagination.
+Example: "Why do you think Camilla didn't want to eat Lima beans in front of her friends?"
+
+Incorporate Completion Prompts:
+Leave sentences incomplete to allow the child to fill in the blanks.
+Example: "Camilla got covered in colorful stripes, she looked just like a ..."
+
+Use Recall Prompts More Frequently:
+Encourage the child to recall specific events from the story.
+Example: "What happened when Camilla went to school with stripes?"
+
+Include More Wh- Prompts:
+Use questions starting with what, where, when, why, and how to teach new vocabulary and understand events.
+Example: "What did Camilla do when she saw herself in the mirror?"
+
+Encourage Distancing Prompts:
+Ask questions that relate the story to the child’s own experiences.
+Example: "Have you ever felt like you wanted to fit in like Camilla?"
+
+Ensure Clear Evaluation of Responses:
+Provide specific feedback to affirm the child's responses and guide their understanding.
+Example: "That's right! She didn't want to miss the first day of school because she was afraid of what the other kids would say."
+
+Expand Responses More Deeply:
+Add relevant information and context when the child responds to prompts.
+Example: "Yes, Camilla didn't feel well because she was worried about how different she looked with the stripes."
+
+Repeat Prompts to Reinforce Learning:
+Return to previous points to ensure retention and reinforce the learning.
+Example: "Let’s remember why Camilla didn’t eat Lima beans. Can you tell me why?"PROMPT END ____________________
+1. Prompting the Child:
+
+    Analysis:
+    The parent prompts the child infrequently during the reading. Most prompts are related to book selection and general inquiries, rather than engagement with the story content. The dialog does not include many diverse types of prompts to facilitate deeper interaction.
+
+    Quotes:
+    - Line [0]: "Okay, you want to pick a story? Should we do a short story or a long story?"
+    - Line [8]: "Do you ever try on forty-two outfits?"
+    - Line [34]: "Is that Camilla?"
+    - Line [54]: "Why? You want to read it?"
+
+    2. Evaluating the Child's Response:
+
+    Analysis:
+    There are very few instances where the parent clearly evaluates the child's responses. Most of the parent's replies are either acknowledgments or repetitions of the child's answer without a broader evaluation.
+
+    Quotes:
+    - Line [2]: "Long. Okay, let's see what we got here."
+    - Line [10]: "No. But none seem quite right."
+    - Line [35]: "Oh my goodness."
+
+    3. Expanding the Child's Response:
+
+    Analysis:
+    The parent does not frequently expand on the child's responses. In most cases, the parent's statements do not add additional information or insight to what the child has already said.
+
+    Quotes:
+    - Line [4]: "Oh, or there are more books too, you want to do bad kids with stripes, that's what I'm thinking, okay."
+    - Line [69]: "I'm not really a big fan, but that's okay."
+
+    4. Repeating the Prompt:
+
+    Analysis:
+    There are no clear instances where the parent repeats prompts to ensure the child has internalized the expansions. The follow-up is mostly about progressing with the reading rather than reinforcing learning.
+
+    Quotes:
+    - There are no clear instances of repetition after expansion.
+
+    Overall Score: 3/10
+
+    Explanation:
+    The parent could improve by using more purposeful prompts, evaluating responses consistently, expanding use of vocabulary and concepts, and repeating prompts for reinforcement.
+
+    How the Parent Can Improve:
+
+    Use More Engaging Prompts:
+    Incorporate more varied and open-ended prompts. For example, completion, recall, and wh- prompts can help drive deeper engagement.
+    Example: "What do you think Camilla should do next?"
+
+    Evaluate Responses More Clearly:
+    Provide clear evaluations of the child's responses beyond simple acknowledgment. This encourages validation and understanding of the child’s contributions.
+    Example: "That's right, she looks like a rainbow, doesn't she? And what colors do you see?"
+
+    Expand on Responses:
+    Add more information or rephrase the child's responses to introduce new vocabulary and ideas.
+    Example: If the child says “stripes,” the parent could expand with, "Yes, she has colorful stripes all over her body, kind of like a zebra but with many more colors."
+
+    Repeat Prompts:
+    Ensure the child has grasped expansions by repeating prompts for reinforcement.
+    Example: After expanding on colors, the parent could say, "Can you remember which colors we saw on Camilla? Say them with me."
+
+    Incorporate the CROWD Prompts:
+    Include various prompts to foster different cognitive skills.
+    Example of Completion Prompt: "Camilla turned purple with polka dots, then she got all... (let the child complete) colorful shapes!"
+    Example of Recall Prompt: "Can you remember why Camilla didn’t want to eat Lima beans?"
+    Example of Wh- Prompt: "Why do you think the other kids laughed at Camilla?"
+    Example of Distancing Prompt: "Have you ever felt like Camilla when you wanted to fit in but were afraid to show what you really liked?"
+
+    By using these strategies, the parent can create a more interactive and engaging reading experience that aligns better with dialogic reading practices.PROMPT END ____________________
+1. Prompting the Child:
+
+Analysis:
+The parent prompts the child a few times during the reading, but most of the prompts are either situational or rhetorical, rather than engaging or encouraging the child to think critically or use imagination. The prompts are quite basic.
+
+Quotes:
+- Line [0]: "Okay, you want to pick a story? Should we do a short story or a long story?"
+- Line [2]: "Okay which one looks like a good one for you?"
+- Line [8]: "Do you ever try on forty-two outfits?"
+- Line [96]: "Look Lorax, I said, there's no cause for alarm. I chopped just one tree, I am doing no harm."
+
+Score: 4/10
+
+2. Evaluating the Child's Response:
+
+Analysis:
+The parent occasionally acknowledges the child's responses, but the evaluations tend to be minimal and sometimes just repetitions of the child’s response. There is a lack of clear and constructive feedback.
+
+Quotes:
+- Line [9]: "No."
+- Line [35]: "Yeah."
+- Line [56]: "We did already read it."
+
+Score: 3/10
+
+3. Expanding the Child's Response:
+
+Analysis:
+The parent rarely expands on the child's responses. When expansions occur, they are often minimal and do not add significant new information or rephrase the child's answers in a more complex way.
+
+Quotes:
+- Line [56]: "We did already read it. So, we can read it again or we can pick one we haven't read."
+- Line [83]: "Okay. I think you're supposed to stay over in this area though."
+
+Score: 3/10
+
+4. Repeating the Prompt:
+
+Analysis:
+The parent does not consistently repeat prompts to ensure the child has learned from the expansions. There are almost no instances where the parent revisits a point to reinforce the child’s learning.
+
+Quotes:
+- There are no clear instances of repetition after expansion.
+
+Score: 1/10
+
+Overall Score: 3/10
+
+Explanation:
+The parent occasionally prompts the child and evaluates responses, but these interactions are basic and lack the depth needed for effective dialogic reading practices. There is minimal effort to expand on the child's responses or repeat prompts to reinforce learning. 
+
+How the Parent Can Improve:
+
+1. Use More Engaging Prompts:
+   - Ask the child more open-ended questions that require critical thinking and imagination.
+   - Example: "Why do you think Camilla didn’t want to eat Lima beans in front of her friends?"
+
+2. Evaluate Responses Constructively:
+   - Provide more detailed and constructive feedback on the child's responses.
+   - Example: When the child answers "No" to trying on forty-two outfits, the parent could respond, "That’s right. Forty-two outfits is a lot to try on, isn’t it?"
+
+3. Expand Responses:
+   - Rephrase and add more information to the child's responses.
+   - Example: If the child says something about Camilla’s stripes, the parent could expand with, "Yes, Camilla has stripes all over her body. They make her look like a colorful rainbow, don’t they?"
+
+4. Repeat Prompts:
+   - Make sure to revisit earlier prompts to reinforce what the child has learned.
+   - Example: After expanding on the concept of Camilla’s stripes, the parent could ask, "Can you tell me again why Camilla got those stripes?"
+
+Incorporate CROWD Prompts:
+1. Completion prompts: 
+   - Example: "Camilla tried on ___________ outfits."
+2. Recall prompts: 
+   - Example: "Do you remember what happened to Camilla at school?"
+3. Open-ended prompts:
+   - Example: "Tell me what's happening in this picture."
+4. Wh- prompts:
+   - Example: "Why do you think the children laughed at Camilla?"
+5. Distancing prompts:
+   - Example: "Can you think of a time when you were worried about what others might think?"
+
+Implementing these strategies can significantly enrich the child’s reading experience, facilitate better comprehension, and make the interaction more engaging and educational.

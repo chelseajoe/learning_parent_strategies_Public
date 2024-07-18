@@ -86,7 +86,7 @@ def gpt_chunking(concatenated_transcript):
 
 
 # Example usage
-file_path = 'CSV_FILES/p10/s1/p10_s1_output.csv'
+file_path = 'CSV_FILES/p11/s1/p11_s1_output.csv'
 # api_key = 'your-openai-api-key'  # Replace with your actual OpenAI API key
 concatenated_transcripts = concatenate_transcripts(file_path)
 # prompt = "Please split the transcript based on the given criteria."
@@ -94,7 +94,7 @@ concatenated_transcripts = concatenate_transcripts(file_path)
 result = gpt_chunking(concatenated_transcripts)
 print(result)
 
-output_txt_path = 'CHUNK_TXT/p10/s1/p10_s1_chunking.txt'
+output_txt_path = 'CHUNK_TXT/p11/s1/p11_s1_chunking.txt'
 
 # Ensure the directory exists
 os.makedirs(os.path.dirname(output_txt_path), exist_ok=True)

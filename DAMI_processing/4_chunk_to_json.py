@@ -88,5 +88,5 @@ def extract_interaction_chunks(txt_file_path, csv_file_path, output_json_path):
         json.dump(json_output, jsonfile, indent=4)
 
 # Example usage:
-extract_interaction_chunks('CHUNK_TXT/p10/s1/p10_s1_chunking.txt', 'CSV_FILES/p10/s1/p10_s1_output.csv', 'CHUNK_DATA/p10/s1/p10_s1_chunk_data.json')
+extract_interaction_chunks('CHUNK_TXT/p11/s1/p11_s1_chunking.txt', 'CSV_FILES/p11/s1/p11_s1_output.csv', 'CHUNK_DATA/p11/s1/p11_s1_chunk_data.json')
     

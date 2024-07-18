@@ -39,6 +39,6 @@ def convert_txt_to_csv(input_file, output_file):
             writer.writerow([speaker, timestamp, transcript])
 
 # Usage
-input_file = 'DAMI/p10/s1/p10_s1_transcription.txt'
-output_file = 'CSV_FILES/p10/s1/p10_s1_output.csv'
+input_file = 'DAMI/p11/s1/p11_s1_transcription.txt'
+output_file = 'CSV_FILES/p11/s1/p11_s1_output.csv'
 convert_txt_to_csv(input_file, output_file)
