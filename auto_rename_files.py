@@ -20,6 +20,7 @@ def rename_files_in_subdirectories(directory_path, new_name):
                             print(f"Renamed {file_path} to {new_file_path}")
 
 # Example usage
-directory_path = 'DATA/BATCH/INSIGHT_OUTPUT'
-new_name = 'batch_insight_output.jsonl'
+directory_path = 'DATA/BATCH/PARENT_STRATEGY_OUTPUT'
+new_name = 'batch_parent_strategy_output.jsonl'
 rename_files_in_subdirectories(directory_path, new_name)
+

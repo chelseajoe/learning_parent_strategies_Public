@@ -1,12 +1,12 @@
 .env
 COPY*
 No*
-DAMI_processing/DAMI
-DAMI_processing/CSV_FILES
-DAMI_processing/OUTPUT_FRAMES
-DAMI_processing/CHUNK*
-DAMI_processing/OLD*
-DAMI_processing/BATCH*
+# DAMI_processing/DAMI
+# DAMI_processing/CSV_FILES
+# DAMI_processing/OUTPUT_FRAMES
+# DAMI_processing/CHUNK*
+# DAMI_processing/OLD*
+# DAMI_processing/BATCH*
 old*
 PICCOLO
 output.txt
@@ -15,4 +15,8 @@ code
 # DAMI*
 # CSV_FILES
 # OUTPUT_FRAMES
-DATA
+DATA/CSV_FILES
+DATA/DAMI
+DATA/CHUNK*
+DATA/OUTPUT_FRAMES
+DATA/BATCH

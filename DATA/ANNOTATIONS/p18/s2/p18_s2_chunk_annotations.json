@@ -1,0 +1,453 @@
+{
+    "Interaction Episode 1": {
+        "scene": [
+            "Child: (sitting at the table, looking at the tablet)",
+            "Parent: (sitting beside the child)",
+            "Parent: Don't put your hands in your mouth.",
+            "Child: (looking towards the parent, hands close to the mouth)",
+            "Parent: Okay, you can start reading now.",
+            "Child: (continues to look at the tablet)",
+            "Child: (sitting at the table, looking at the tablet)",
+            "Parent: (looking at the child)",
+            "Parent: Okay. Let's pick a book. Which one should we do? Do you want to try Goodnight Moon? Have you read that one before?",
+            "Child: (still looking at the tablet, no visible reaction)",
+            "Parent and child are engaged in a routine of settling down to read from a storybook on the tablet. The parent reminds the child not to put their hands in their mouth and then encourages the child to start reading. Finally, the parent suggests reading \"Goodnight Moon\" and asks if the child has read it before. The child primarily focuses on the tablet."
+        ]
+    },
+    "Interaction Episode 2": {
+        "scene": [
+            "Child: (points to the tablet screen, looking at the parent)",
+            "Parent: (leans forward, looking at the tablet) \"Yeah. I want...\"",
+            "Child: (continues to point at the screen)",
+            "Parent: \"Okay, you pick.\"",
+            "Child: (smiling and tapping the screen)",
+            "Parent: (smiling, still looking at the screen)",
+            "Child: \"Are You My Mother?\""
+        ]
+    },
+    "Interaction Episode 3": {
+        "scene": [
+            "Child: (sitting at the table, looking at the tablet)",
+            "Parent: \u201cAre You My Mother?\u201d Okay. What do you see in this picture?",
+            "Child: (looking at the tablet) I'm looking at the mommy getting a worm.",
+            "Parent: Yeah. The mama bird getting a worm? Are You My Mother? by P.D. Eastman. Let me try asking you to read just the first part.",
+            "Child: (sitting silently, looking at the tablet, shaking their head) No.",
+            "Parent: Look at that, the mother bird... Do you want to try it?",
+            "Child: The mother bird.",
+            "Parent: What's that one?",
+            "Child: Sat on her egg?"
+        ]
+    },
+    "Interaction Episode 4": {
+        "scene": [
+            "Child: (looking at the tablet, sitting beside the parent)",
+            "Parent: Yeah, very good! The mother bird sat on her egg. That was good reading. When did you learn how to read those words? Good job. The mother bird sat on her egg. The egg jumped! Started moving.",
+            "Child: (watching the tablet, listening attentively)",
+            "Parent: \"Uh-oh,\" said the mother bird. My baby will be here. He will want to eat. \"I must get something for my baby bird to eat,\" she said, \"I will be back.\" And then what does she do?",
+            "Child: (focused on the tablet, thinking)",
+            "Parent: (pointing at the tablet) Get some food.",
+            "Child: (smiling, looking at the parent) Get some food.",
+            "Parent: (pointing at the tablet) She went... Yeah, she flew off to find some food. So away she went. The egg jumped. It jumped and jumped and jumped! And... what happened?",
+            "Child: (looking at the tablet, curious)"
+        ]
+    },
+    "Interaction Episode 5": {
+        "scene": [
+            "Child: (Looking at the tablet screen)",
+            "Parent: It cracked.",
+            "Child: (Smiling and looking at the screen)",
+            "Child: (Looking at the tablet screen)",
+            "Parent: It cracked open and then the baby bird. Out came the baby bird! What did the baby bird say? Can you read that part?",
+            "Child: (Smiling, engaging with the story)",
+            "Child: (Looking intently at the screen)",
+            "Parent: \"Where's my mother?\"",
+            "Child: (Looking at the screen, seemingly attentive)",
+            "Child: (Still looking at the screen)",
+            "Parent: \"Where's my mother?\" He said. He looked for her. He looked up...[crosstalk 00:02:35]",
+            "Child: (Listening and focusing on the screen)",
+            "Child: (Focused on the screen)",
+            "Parent: He looked down.",
+            "Child: (Smiling slightly, still focused on the screen)",
+            "Child: (Listening attentively)",
+            "Parent: He did not see her, yeah. Then he looked down. Then he looked down. He did not see her. \"I will go and look for her,\" he said. So, away he went. Down out of the tree he went. Down, down, down. It was a long way down. The baby bird could not fly. He could not fly, but he could walk. \"Now, I will go and find my mother,\" he said. He did not know what his mother looked like. Has he ever seen his mother yet?",
+            "Child: (Listening attentively, fully engaged with the story)"
+        ]
+    },
+    "Interaction Episode 6": {
+        "scene": [
+            "Child: (looking at the book on the tablet)",
+            "Parent: No.",
+            "Child: (continues looking at the book)",
+            "Parent: No, he was inside the shell, huh? So he went right by her. He didn't even see her. He walked right by and didn't know that was his mother. He came to a kitten. What did he say?",
+            "Child: (focused on the book, listening to the parent)",
+            "Parent: \"Are you my mother?\"",
+            "Child: (smiles slightly, still focused on the book)"
+        ]
+    },
+    "Interaction Episode 7": {
+        "scene": [
+            "Child: (looking at the book with interest)",
+            "Parent: \"Are you my mother?\" He said to the kitten. The kitten just looked and looked. It did not say a thing. The kitten was not his mother, so he went on. Then he came to a...",
+            "Child: (smiling, still looking at the book)",
+            "Parent: Chicken.",
+            "Child: (continues looking at the book)",
+            "Parent: Yeah, that's a chicken do you know... Can you read that word? It's what special kind of chicken it is. When they are mommy chickens.",
+            "Child: Hen?",
+            "Parent: Yeah, hen. Good job. \"Are you my mother?\" He said to the hen. \"No,\" said the hen. The kitten was not his mother. The hen was not his mother. Can you read that line? That sentence?"
+        ]
+    },
+    "Interaction Episode 8": {
+        "scene": [
+            "Child: (looking at the tablet)",
+            "Parent: So, the baby bird...",
+            "Child: (continues looking at the tablet)",
+            "Parent: Good.",
+            "Child: (starts straightening up a bit in the chair)",
+            "Parent: Went on...",
+            "Child: (adjusts in the chair, looking engaged)",
+            "Parent: Good! So, the baby bird went on. Hey, you read a whole sentence. All by yourself.",
+            "Child: (smiles and looks proud, slightly leaning back)"
+        ]
+    },
+    "Interaction Episode 9": {
+        "scene": [
+            "Child: (looking at the tablet)",
+            "Parent: \"Okay. That was good. 'I have to find my mother,\u2019 he said, \u2018but where? Where is she? Where could she be?'\" Then he came to a dog. \u2018Are you my mother?\u2019 He said to the dog.\"",
+            "Child: (looking at the tablet, listening attentively)",
+            "Parent: \"'No'. \u2018I am not your mother, I'm a dog,\u2019 said the dog. The kitten was not his mother. The hen was not his mother. The dog was not his mother. Where is he going to go next?\""
+        ]
+    },
+    "Interaction Episode 10": {
+        "scene": [
+            "Child: (sitting at the table, looking at the parent)",
+            "Parent: (looking at the child) \"To [inaudible 00:05:31].\"",
+            "Child: (maintaining gaze at the parent)",
+            "Parent: (pointing at the tablet) \"What is that? So the baby bird went on. Now he came to a... Here, you can read what that is.\"",
+            "Child: (slightly smiling) \"Cow.\"",
+            "Parent: (nodding, looking at the child) \"A cow, that's right. 'Are you my mother?' he said to the cow.\"",
+            "Child: (looking at the tablet)",
+            "Parent: (gesturing towards the tablet) \"'No, I am a cow.'\"",
+            "Child: (slightly smiling while looking at the tablet)"
+        ]
+    },
+    "Interaction Episode 11": {
+        "scene": [
+            "Child: (sitting next to the parent, looking at the tablet)",
+            "Parent: \"How could I be your mother?\" Said the cow, \"I am a cow\". Moo. The kitten and the hen were not his mother. The dog and the cow were not his mother. Did he have a mother?\"",
+            "Child: (smiling, looking at the tablet)",
+            "Parent: Yes.",
+            "Child: (still focused on the tablet)",
+            "Parent: \"I did have a mother,\" said the baby bird, \"I know I did. I have to find her. I will, I will.\" Now, the baby bird did not walk, he ran. Then he saw a car. Could that old thing be his mother? No, it could not. The baby bird did not stop. He ran on and on. Now he looked way, way down. He saw a boat. \"There she is,\" said the baby bird. He called to the boat, but the boat did not stop. The boat went on. Is the boat his mother?\"",
+            "Child: (looking at the tablet, listening attentively)"
+        ]
+    },
+    "Interaction Episode 12": {
+        "scene": [
+            "Child: (looking at the tablet)",
+            "Parent: No.",
+            "Child: (still looking at the tablet)",
+            "Parent: No. He looked way, way up and he saw a big...",
+            "Child: (looking at the tablet, smiling)",
+            "Parent: Airplane. (continues reading) Pane. \"Here I am mother,\" he called out. But the plane did not stop, the plane went on. Just then the baby bird saw a big thing. This must be his mother. \"There she is,\" he said, \"there's my mother\". Is he right?",
+            "Child: (continues to look at the tablet, smiling)",
+            "Parent: No."
+        ]
+    },
+    "Interaction Episode 13": {
+        "scene": [
+            "Child: (looking at the tablet, engaged)",
+            "Parent: \"No. He ran right up to it. \"Mother, mother I'm here!\" He said to the big thing. But the big thing just let out a snort. \"Oh you are not my mother,\" said the baby bird, \"you are a snort. I have to get out of here.\" But the baby bird could not get away. He got trapped in there, huh? The snort went up. It went way up. Way up, and up, up, up went the baby bird. And now, where was the snort going? Oh, oh, oh what is this snort going to do to me? Get me out of here.\"",
+            "Child: (still looking at the tablet)",
+            "Parent: \"Just then, the snort came to a stop. \"Where am I?\" Said the baby bird, \"I want to go home, I want my mother!\" Then something happened. The snort put the baby bird right back in the tree. The baby bird was home. And just then the mother bird came back to the tree. \"Do you know who I am?\" She said to her baby. \"Yes, I know who you are,\" said the baby bird. Can you read these? You are not a... kitten. You are not a...\"",
+            "Child: \"Dog.\"",
+            "Parent: \"Yeah, the dog is next. What about the one above the dog? It starts with an \"H.\" You are not a...\"",
+            "Child: (smiling and looking at the tablet) \"Hen.\""
+        ]
+    },
+    "Interaction Episode 14": {
+        "scene": [
+            "Child: (focused on the tablet, looking at the screen)",
+            "Parent: \"Hen. You are not a...\"",
+            "Child: (glancing at the parent)",
+            "Parent: \"Cow.\"",
+            "Child: (looks at the tablet)",
+            "Parent: \"Cow. You are not a... What's that word? You can try to read it.\"",
+            "Child: (appears to be thinking, looking at the tablet)",
+            "Parent: \"Bo...\"",
+            "Child: (starts to form a word) \"Bo...\"",
+            "Parent: \"Bo... Yeah.\"",
+            "Child: \"Boat.\"",
+            "Parent: \"Boat, good. Or a... plane. Or a snort. You are a... What?\"",
+            "Child: (smiles and continues looking at the tablet)"
+        ]
+    },
+    "Interaction Episode 15": {
+        "scene": [
+            "Child: (sitting attentively next to the parent)",
+            "Parent: \u201cMother.\u201d",
+            "Child: (looking at the tablet)",
+            "Parent: \u201cYeah. What's this word here? You are a... B-I-R-D. Can you make those sounds?\u201d",
+            "Child: (continues looking at the tablet)",
+            "Parent: \u201cWhere's the d?\u201d",
+            "Child: (looks closer at the tablet)",
+            "Parent: \u201cRight here, B-I-R-D.\u201d",
+            "Child: (leans in, examining the tablet)",
+            "Child: \u201cI don't see it.\u201d",
+            "Parent: (points to the word on the tablet) \u201cIt looks like the b, but it's back, backwards. A backwards b.\u201d",
+            "Child: \u201cOh.\u201d",
+            "Parent: \u201cB-I-R-D spells...\u201d",
+            "Child: \u201cMother.\u201d"
+        ]
+    },
+    "Interaction Episode 16": {
+        "scene": [
+            "Child: (Looking at the tablet, somewhat serious expression)",
+            "Parent: No, try to sound it out. What sound does a b make?",
+            "Child: (Pointing to the tablet, looks a bit confused)",
+            "Parent: (Pointing at the tablet) Where's the d? Where's it at? I can't find the d.",
+            "Child: (Looking at the tablet, chin resting on left hand, thoughtful expression)",
+            "Parent: (Closer to the child, pointing at the tablet) Can't find the d? See, it's this word here. B-I-R-D did you know that's a d?",
+            "Child: (Nods slightly, mouth open, appears to be thinking)",
+            "Parent: (Pointing at the tablet) It looks like a backwards b. Bird. And you are my...",
+            "Child: (Looking up at the parent, hands together near chin)",
+            "Parent: (Smiling, watching the child closely) Mother."
+        ]
+    },
+    "Interaction Episode 17": {
+        "scene": [
+            "Child: (watching the book on the tablet, with fingers in mouth)",
+            "Parent: Can you take your fingers out?",
+            "Child: (removes fingers from mouth)",
+            "Parent: Good. I think that's the end.",
+            "Child: (continues looking at the tablet)",
+            "Parent: And now, this one.",
+            "Child: (smiling, looking at the tablet with interest)",
+            "Parent: Let's see how much time... Okay, I think we have time for one more. We did this one last time, do you want to read it again or do you want to read a different one?"
+        ]
+    },
+    "Interaction Episode 18": {
+        "scene": [
+            "Child: (sitting next to the parent, fingers in mouth)",
+            "Parent: Different one.",
+            "Child: (looking at the tablet, fingers still in mouth)",
+            "Parent: Yeah, let's see what we got. Can you take your fingers out of your mouth, please?",
+            "Child: (fingers no longer in mouth, looking at the tablet)",
+            "Parent: Okay. Green Eggs and Ham?",
+            "Child: (nodding, looking at the tablet)",
+            "Parent: We could do that if you want. What's that say?",
+            "Child: (looking at the tablet, reading)",
+            "Parent: \"I am Sam.\"",
+            "Child: (smiling and looking at the parent, then back at the tablet)",
+            "Parent: Good. I am Sam. What's that say?",
+            "Child: (focused on the tablet, reading)",
+            "Parent: \"Sam-I-am.\""
+        ]
+    },
+    "Interaction Episode 19": {
+        "scene": [
+            "Child: (sitting at the table, looking at the tablet)",
+            "Parent: Sam-I-am. \"That Sam I am, that Sam-I-am. I do not like that Sam-I-am. What does Sam say?\"",
+            "Child: (smiling and looking at the parent)",
+            "Parent: Do you like green eggs and ham?",
+            "Child: (smiling and turning slightly towards the tablet)",
+            "Parent: Do you like green eggs and ham? How about you be Sam, I'll be this guy. I do not like that Sam-I-am, I do not like green eggs and ham.",
+            "Child: (leaning in closer to the tablet, with hands near the mouth)",
+            "Parent: Would you like them here or there?",
+            "Child: (still leaning in, hands near face, looking at the tablet)",
+            "Parent: I would not like them here or there, I would not like them anywhere. I do not like green eggs and ham. I do not like them, Sam-I-am."
+        ]
+    },
+    "Interaction Episode 20": {
+        "scene": [
+            "Child: (focused on the tablet, hands close to his face)",
+            "Parent: \"Would you like them in a house? ...With a mouse?\"",
+            "Child: (keeps his hands close to his face, continues looking at the tablet)",
+            "Parent: \"Would you like them with a mouse? I do not like them in a house. I do not like them with a mouse. I do not like them here or there. I do not like them anywhere. I do not like green eggs and ham. I do not like them, Sam-I-am.\"",
+            "Child: (places hands near his ears but keeps looking at the tablet)",
+            "Parent: \"Would you eat them in a ...\"",
+            "Child: (covering ears slightly, but still focused on the tablet)",
+            "Parent: \"Take your hands out.\"",
+            "Child: (keeps hands close to his face, looking at the tablet)",
+            "Parent: \"In a box? With a fox?\"",
+            "Child: (maintaining the same posture, continues looking at the tablet)",
+            "Parent: \"Would you eat them with a fox? Not in a box, not with a fox. Not in a house, not with a mouse. I would not eat them here or there. I would not eat them anywhere. I would not eat green eggs and ham. I do not like them, Sam-I-am.\""
+        ]
+    },
+    "Interaction Episode 21": {
+        "scene": [
+            "Child: (sitting and looking at the tablet with a smile)",
+            "Parent: \"Do you like them... in a car?\"",
+            "Child: (bringing hands together, still looking at the tablet)",
+            "Parent: (pointing at the tablet) \"What does it say?\"",
+            "Child: (bringing hand to mouth, looking at where parent is pointing)",
+            "Parent: \"With a fox and a mouse?\"",
+            "Parent: \"No, this word right here. Do you want to try reading it? After you read 'in a car', and then you say 'eat them'.\"",
+            "Child: (leaning in closer to the tablet, looking where the parent is pointing)",
+            "Child: (smiling, looking at the tablet)",
+            "Parent: (pointing at the tablet) \"Eat them.\"",
+            "Child: (smiling, looking at the tablet)",
+            "Parent: \"Again.\"",
+            "Child: \"Eat them! Eat them!\"",
+            "Child: (smiling and looking at the tablet)"
+        ]
+    },
+    "Interaction Episode 22": {
+        "scene": [
+            "Child: (looking at the tablet, with hand resting on face, appearing focused)",
+            "Parent: \"Here they are.\"",
+            "Child: (remains focused on the tablet, not reacting verbally)",
+            "Child: (looking intently at the tablet, hand still on face)",
+            "Parent: \"Here they are.\"",
+            "Child: (continues to look at the tablet, no verbal response)",
+            "Child: (still focused on the tablet in front of them)",
+            "Parent: \"I would not, could not, in a car. And then what does Sam say? Up here.\"",
+            "Child: (silent, continuing to look at the tablet, seemingly attentive)",
+            "Child: (engaged with the story, looking at the tablet)",
+            "Parent: \"Do you like them [crosstalk 00:13:29].\"",
+            "Child: (listening silently, hand covering mouth)",
+            "Parent: \"You may like them...\"",
+            "Parent: \"...In a tree.\"",
+            "Child: (silent, continuing to listen and look at the tablet)",
+            "Child: (staring attentively at the tablet)",
+            "Parent: \"You will see. You may like them in a tree?\"",
+            "Parent: \"Yup, you were right. I would not, could not, in a tree. Not in a car, you let me be. I do not like them in a box. I do not like them with a fox. I do not like them in a house. I do not like them with a mouse. I do not like them here or there. I do not like them anywhere. I do not like green eggs and ham. I do not like them, Sam-I-am.\"",
+            "Child: (continues to listen silently, remaining focused on the tablet)"
+        ]
+    },
+    "Interaction Episode 23": {
+        "scene": [
+            "Child: (looking at the tablet, pointing at something on the screen)",
+            "Parent: Can you find the word \"train\"?",
+            "Child: (continues looking at the tablet, points to the screen)",
+            "Parent: [crosstalk 00:14:05] Train?",
+            "Child: (still looking at the tablet, seems focused)",
+            "Parent: Where is the word \"train\" on the page?",
+            "Child: (pointing at the screen again, looks focused)",
+            "Parent: Train... Tr-train.",
+            "Child: (looking at the screen, points to a word)",
+            "Parent: Good.",
+            "Child: (still looking at the screen, follows along with the parent's reading)",
+            "Parent: \"Do you like them in a train?\"",
+            "Child: (looks at the screen, listening to parent)",
+            "Parent: \"Not on a train! Not in a tree! Not in a car! Sam! Let me be!\" Can you find the word \"box?\" What is the word \"box\"?",
+            "Child: (looks at the screen and points at a word)",
+            "Parent: Good. How about the word \"fox?\" Yes, good job. Can you find the word \"mouse?\"",
+            "Child: (looks at the screen, seems to have difficulty)",
+            "Parent: That one harder?",
+            "Child: (nods head slightly)",
+            "Parent: Yeah.",
+            "Child: (continues focusing on the screen)",
+            "Parent: How about \"eat?\" Can you find the word \"eat?\"",
+            "Child: (looks at the screen, showing frustration)",
+            "Parent: There's too many words.",
+            "Child: (nods in agreement, still frustrated)",
+            "Parent: There are a lot of words, huh? Here's a clue.",
+            "Child: (looks up, curious)",
+            "Parent: What?",
+            "Child: (looks back at the screen, thinking)",
+            "Parent: What letter... let's go back to mouse. What letter does mouse start with?",
+            "Child: (thinks for a moment, then answers confidently)",
+            "Parent: M.",
+            "Child: (scans the page, looking for words)",
+            "Parent: M, good. Do you see any words here that start with an m?",
+            "Child: (points to a word on the screen, somewhat uncertain)",
+            "Parent: [inaudible 00:15:12] Oh.",
+            "Child: (seems pleased, smiling)",
+            "Parent: Yeah you found it, good job. I will not eat them in a house. I will not eat them here or there. I will not eat them anywhere. I do not like green eggs and ham. I do not like them, Sam-I-am."
+        ]
+    },
+    "Interaction Episode 24": {
+        "scene": [
+            "Child: (looking at the tablet)",
+            "Parent: \"Would you, could you, in the dark?\"",
+            "Child: (smiling and glancing at parent)",
+            "Child: (looking at the tablet)",
+            "Parent: \"In the dark. I would not, could not, in the dark. \"",
+            "Child: (smiling and glancing at parent)",
+            "Parent: \"Could you in the rain?\"",
+            "Child: (looking at the tablet)",
+            "Parent: \"I would not, could not, in the rain. Not in the dark. Not on a train. Not in a car. Not in a tree. I do not like them, Sam, you see. Not in a house. Not in a box. Not with a mouse. Not with a fox. I will not eat them here or there. I will not eat them anywhere.\"",
+            "Child: (thoughtful expression and looking at the tablet)",
+            "Parent: \"...Green eggs and ham?\"",
+            "Child: (smiling and looking at the tablet)",
+            "Parent: \"Green eggs and ham. I do not like them, Sam-I-am. Could you, would you, with a...\"",
+            "Child: (thoughtful expression and looking at the tablet)",
+            "Parent: \"...Goat.\"",
+            "Child: (smiling and looking at the tablet)",
+            "Parent: \"Goat. I would not, could not, with a goat. Would you, could you...\"",
+            "Child: (thoughtful expression and looking at the tablet)",
+            "Parent: \"...In a- in a boat?\"",
+            "Child: (smiling and looking at the tablet)",
+            "Parent: \"On a boat. I could not, would not, on a boat. I do not like green eggs and ham. I do not like them, Sam-I-am. You do not like them.\"",
+            "Child: (thoughtful expression and looking at the tablet)",
+            "Parent: \"Try them.\"",
+            "Child: (thoughtful expression and looking at the tablet)",
+            "Parent: \"Try them! Try them! And you may. Try them and you may I say. Sam! If you will let me be, I will try them. You will see.\"",
+            "Child: (smiling and looking at the tablet)",
+            "Parent: \"Yes.\""
+        ]
+    },
+    "Interaction Episode 25": {
+        "scene": [
+            "Child: (focused on the tablet, looking at the screen)",
+            "Parent: \"Say! I like green eggs and ham. I do! I like them, Sam-I-am. And I would eat them in a boat! And I would eat them with a goat. And I will eat them in the rain. And in the dark. And on a train. And in a car. And in a tree. They are so good so good you see!\"",
+            "Parent: Can you find the word \"good?\"",
+            "Child: (looks at the screen) Good job. \"So I will eat them in a box. And I will eat them with a fox. And I will eat them in a house. And I will eat them with a mouse. And I will eat them here and there. Say! I will eat them anywhere!\"",
+            "Child: (still looking at the tablet screen)",
+            "Parent: \"Thank you, Sam.\"",
+            "Child: (looking at the tablet screen, appears engaged)",
+            "Parent: \"I do so like green eggs and ham! Thank you! Thank you, Sam-I-Am.\"",
+            "Parent: Where is the words \"thank you?\"",
+            "Child: (points or looks at the words on the screen)",
+            "Parent: Yeah, very good. When did you learn how to read so well?",
+            "Child: (does not respond)",
+            "Child: (still engaged with the tablet)",
+            "Parent: See what else they have.",
+            "Child: (smiling, looks at the parent then back at the tablet)",
+            "Child: Can we just read all of it?",
+            "Parent: Okay. \"Once there was a tree and she loved.\"",
+            "Child: (focused on the tablet screen, looks intrigued)",
+            "Parent: The tree loved a little boy. \"And every day the boy would come, and he would gather her leaves and make them into crowns and play king of the forest. He would climb up her trunk, and swing from her branches, and eat apples.\"",
+            "Child: (smiles) Ooh it was an apple tree.",
+            "Parent: \"And they would play hide-and-seek, and when he was tired he would sleep in her shade. And the boy loved the tree very much, and the tree was happy. But time went by and the boy grew older.\"",
+            "Child: (looks at the parent)",
+            "Parent: Oh, is there someone else there with him?",
+            "Child: (acknowledges) The tree.",
+            "Child: (focused on the screen)",
+            "Parent: \"And the tree was often left alone when the boy grew older.\"",
+            "Parent: How many feet do you see?",
+            "Child: Four.",
+            "Parent: Four, that means someone else is there, huh? He put me + tree, and now he put me + somebody else.",
+            "Parent: Do you think he has another friend?",
+            "Child: Yeah.",
+            "Child: (still looking at the tablet)",
+            "Parent: \"Then one day the boy came to the tree and said, and the tree said' Come boy, come and climb up my trunk and swing from my branches. Eat apples and play in my shade and be happy.' 'I'm too big to climb and play,' said the boy, 'I want to buy things and have fun. I want some money, can you give me some money?' 'I'm sorry,' said the tree, 'but I have no money. I only have leaves and apples. Take my apples and sell them in the city. Then you'll have money, and you'll be happy.' And so the boy climbed up the tree and gathered her apples and carried them away. And the tree was happy.\"",
+            "Child: (looking at the screen)",
+            "Parent: But the boy stayed away for a long time and the tree was sad. And then one day the boy came back and the tree shook with joy and said, 'Come, boy, climb up my trunk and swing from my branches and be happy.' 'I'm too busy to climb trees,' said the boy.",
+            "Parent: He's not a boy anymore, huh? He's an old man.",
+            "Parent: 'I want a house, too keep me warm,' he said, 'I want a wife and I want children, and so I need a house. Can you give me a house?'",
+            "Parent: 'I have no house,' said the tree, 'The forest is my house. But you can cut off my branches and build a house. Then you'll be happy.'\"",
+            "Child: (attention on the tablet)",
+            "Parent: \"And so the boy cut off her branches and carried them away to build his house. And the tree was happy. But the boy stayed away for a long time. And when he came back the tree was so happy she could hardly speak. 'Come, boy,' she whispered, 'come and play.' 'I'm too old and sad to play,' said the boy, 'I want a boat, that will take me far away. Can you give me a boat?' 'Cut down my trunk and make a boat,' said the tree, 'then you can sail away and be happy.'\"",
+            "Child: (engaged with the tablet)",
+            "Parent: \"And so the boy cut down her trunk and made a boat, and sailed away. And the tree was happy, but not really. After a long time the boy came back again. 'I'm sorry boy,' said the tree, 'but I have nothing left to give you. My apples are gone.' 'My teeth are too weak for apples,' said the boy. 'My branches are gone,' said the tree, 'you cannot swing on them.' 'I am too old to swing on branches,' said the boy.\"",
+            "Child: (looking at the screen)",
+            "Parent: He's now a really old man, huh? \"'My trunk is gone,' said the tree, 'you cannot climb.' He said, 'I am too tired to climb.' 'I'm sorry,' said the tree, 'I wish I could give you something. But I have nothing left. I'm just an old stump. I am sorry.'\"",
+            "Parent: Do you know what a stump is? It's what's leftover here when you cut down a tree. That's called a stump.",
+            "Child: (paying attention to the screen)",
+            "Parent: \"'I don't need very much, now,' said the boy, 'just a quiet place to sit and rest. I'm very tired.' 'Well,' said the tree, straightening herself up as much as she could. 'Well an old stump is good for sitting and resting. Come, boy, sit down. Sit down and rest.' And the boy did. And the tree was happy. The end.\"",
+            "Child: (still focused on the tablet)",
+            "Parent: That tree... was that a nice tree?",
+            "Child: (nods) Yeah.",
+            "Child: (still looking at the screen)",
+            "Parent: Yeah, I think we're done. We'll see.",
+            "Child: Yeah, you guys can stop.",
+            "Child: (turns to look at the parent)",
+            "Parent: Yeah. Did you like those stories?",
+            "Child: Look. (points to something off-screen)",
+            "Parent: Yeah.",
+            "(Child begins to get up and leave)",
+            "(Parent watches the child and then looks at the tablet)"
+        ]
+    }
+}

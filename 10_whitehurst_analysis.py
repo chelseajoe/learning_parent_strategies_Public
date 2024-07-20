@@ -149,7 +149,7 @@ def gpt_chunking(concatenated_transcript):
 def whitehurst_analysis_generation(header_directory, participant, session):
     # Generate file paths
     file_path = f'{header_directory}/CSV_FILES/{participant}/{session}/{participant}_{session}_output.csv'
-    output_txt_path = f'{header_directory}/WHITEHURST/{participant}/{session}/{participant}_{session}__whitehurst.txt'
+    output_txt_path = f'{header_directory}/WHITEHURST/{participant}/{session}/{participant}_{session}_whitehurst.txt'
     # Process transcript and save result
     concatenated_transcripts = concatenate_transcripts(file_path)
     result = gpt_chunking(concatenated_transcripts)
@@ -163,8 +163,9 @@ def whitehurst_analysis_generation(header_directory, participant, session):
         # file.write("PROMPT END ____________________\n")
         file.write(result)
 
+    print(f"Whitehurst analysis generated for: {output_txt_path}")
 # Example usage
 header_directory = 'DATA'
-participant = 'p07'
-session = 's1'
+participant = 'p06'
+session = 's2'
 whitehurst_analysis_generation(header_directory, participant, session)

@@ -285,6 +285,7 @@ def generate_parent_strategy_batch_file(train_insight_file_path, test_insight_fi
         original_parent_strategy = original_parent_strategies[i]
         info_tuple_list.append((query, original_parent_strategy, insight_string))
 
+    # create the batch file -- comment out if ony need to regenerate retrieval scores folder
     generate_parent_strategy_batch(info_tuple_list, batch_file_path)
     
 
@@ -306,7 +307,7 @@ def generate_batch_parent_strategy(header_directory, participant, train_session,
 
 # Example usage
 header_directory = 'DATA'  # Replace with your actual header directory path
-participant = 'p25'
+participant = 'p16'
 train_session = 's2'
 test_session = 's1'
 

@@ -92,6 +92,6 @@ def create_parent_strategy_full(header_directory, participant, session):
 
 # Example usage
 header_directory = 'DATA'
-participant = 'p13'
+participant = 'p25'
 session = 's1'
 create_parent_strategy_full(header_directory, participant, session)
