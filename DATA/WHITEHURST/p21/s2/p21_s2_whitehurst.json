@@ -1,0 +1,62 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent prompts the child a few times during the reading, but the prompts are generally basic and not grounded in the story to engage the child deeply. They ask simple identification questions and general questions about preference.",
+        "Quotes": [
+            "Line [7]: \"What's the name of the story we're reading tonight? Do you remember or should I... Today, what story are we starting today?\"",
+            "Line [9]: \"Why are we picking Horton?\"",
+            "Line [31]: \"Why would they steal him from his home?\"",
+            "Line [35]: \"Where did they just sell him?\""
+        ],
+        "Score": "4/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent occasionally acknowledges the child's responses but doesn't consistently provide clear evaluations. The responses are more acknowledgments rather than explicit evaluations.",
+        "Quotes": [
+            "Line [10]: \"Okay, so... Wait, is this the first page?\"",
+            "Line [13]: \"Okay.\"",
+            "Line [31]: \"That's mean.\"",
+            "Line [54]: \"Nope.\""
+        ],
+        "Score": "3/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent adds a bit of information occasionally but often misses opportunities to deepen the child's understanding or to add more context to the story. The expansions are minimal and narrow in scope.",
+        "Quotes": [
+            "Line [31]: \"That's mean. Why would they steal him from his home?\"",
+            "Line [89]: \"Not a goat though?\"",
+            "Line [65]: \"That's right. You were right.\""
+        ],
+        "Score": "3/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent does not consistently repeat prompts to ensure the child has learned from expansions. There are no clear instances where the parent revisits a point to reinforce the child\u2019s learning.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "1/10"
+    },
+    "Overall Score": "4/10",
+    "Explanation": "The parent engages in some basic interaction with the child, mainly through simple prompts and occasional acknowledgment of responses. However, they lack depth and structure in their approach. The parent does not fully capitalize on the opportunities to engage in deeper dialogic reading practices, such as evaluating, expanding, and repeating prompts.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Ask the child more open-ended questions that require critical thinking and imagination.",
+            "Example: \"Why do you think Horton decided to sit on the egg?\""
+        ],
+        "Incorporate Different Types of CROWD Prompts:": [
+            "Use more completion, recall, open-ended, wh- prompts, and distancing prompts to engage the child in different ways.",
+            "Example: \"What do you think happens next after Horton sits on the egg?\""
+        ],
+        "Evaluate the Child's Responses:": [
+            "Provide more explicit feedback to the child's responses, indicating correctness and adding positive reinforcement.",
+            "Example: \"Yes, that's right, Horton is taking care of the egg. Good job remembering!\""
+        ],
+        "Expand on the Child's Responses:": [
+            "Add more context or information to the child's answers to enhance their understanding and engagement with the story.",
+            "Example: \"Yes, they did sell Horton to the circus. That's so sad. Why do you think the circus wanted him?\""
+        ],
+        "Repeat the Prompt:": [
+            "Ensure that after expanding on the child's response, you repeat the prompt to reinforce learning.",
+            "Example: \"Remember, Horton said he would sit on the egg. Why do you think he wants to keep his promise?\""
+        ]
+    }
+}

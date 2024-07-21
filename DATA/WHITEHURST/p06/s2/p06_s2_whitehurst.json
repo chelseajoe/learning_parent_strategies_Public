@@ -1,0 +1,65 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent prompts the child a few times during the reading, but the prompts are generally basic and not very engaging or challenging. They often involve directing the child or simple requests rather than promoting deeper engagement with the content.",
+        "Quotes": [
+            "Line [5]: \"You want to read it? You want to read it together?\"",
+            "Line [7]: \"Go ahead, you can make up a selection.\"",
+            "Line [36]: \"You want to pick another one?\"",
+            "Line [88]: \"I wonder why they're so excited, right?\""
+        ],
+        "Score": "4/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent does occasionally acknowledge the child's responses but does not consistently provide clear evaluations. The interactions are mostly reading the content and sometimes addressing what the child says without thorough feedback.",
+        "Quotes": [
+            "Line [18]: \"Slide.\"",
+            "Line [59]: \"Not over there.\"",
+            "Line [64]: \"Roared.\""
+        ],
+        "Score": "4/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent expands on the child\u2019s responses only occasionally by adding minimal information or rephrasing. There is a lack of deeper and frequent expansion that could help in developing a stronger understanding of the story.",
+        "Quotes": [
+            "Line [18]: \"Slide.\"",
+            "Line [59]: \"Not over there.\"",
+            "Line [88]: \"I wonder why they're so excited, right?\""
+        ],
+        "Score": "3/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent rarely repeats prompts to ensure the child has learned from expansions. There are almost no instances where the parent revisits a point to reinforce the child\u2019s learning.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "1/10"
+    },
+    "Overall Score": "3/10",
+    "Explanation": "The parent needs improvement in all PEER areas. They prompt the child but often in very basic ways. Evaluations are minimal and often are just acknowledgments. Likewise, expansions lack depth and are infrequent. Repetition to reinforce learning is almost non-existent.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Ask the child more open-ended questions that require critical thinking and imagination.",
+            "Example: \"Why do you think Harry ran away from home?\""
+        ],
+        "Evaluate the Child\u2019s Responses More Effectively:": [
+            "Provide clear and specific feedback on the child\u2019s responses.",
+            "Example: When the child says, \u201cIt is Harry,\u201d the parent could respond, \u201cYes, it is Harry! You recognized him even when he was all dirty. Good job!\u201d"
+        ],
+        "Expand on the Child\u2019s Responses:": [
+            "Add more information or rephrase the child\u2019s responses to build on their understanding.",
+            "Example: Child says, \u201cHarry got dirty.\u201d Parent could say, \u201cYes, Harry got very dirty from playing in the mud and running around. He turned from a white dog with black spots to a black dog with white spots.\u201d"
+        ],
+        "Repeat Prompts to Reinforce Learning:": [
+            "Regularly revisit prompts and expansions to reinforce the learning.",
+            "Example: After discussing why Harry ran away, later the parent could ask, \u201cDo you remember why Harry ran away from home?\u201d"
+        ],
+        "Incorporate CROWD Prompts:": [
+            "Use a variety of prompts such as completion, recall, open-ended, Wh-, and distancing prompts to engage the child more deeply.",
+            "Example: Completion: \"Harry ran into the ___ (house).\"",
+            "Recall: \u201cCan you tell me what Harry did to show his family it was him?\u201d",
+            "Open-ended: \u201cWhat do you think would happen if Harry didn\u2019t come back?\u201d",
+            "Wh-: \u201cWhy did Harry bury the scrubbing brush?\u201d",
+            "Distancing Prompt: \"Have you ever felt like Harry when he was dirty and no one recognized him? What was that like?\""
+        ]
+    }
+}

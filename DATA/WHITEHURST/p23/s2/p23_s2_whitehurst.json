@@ -1,0 +1,67 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent prompts the child a few times but mostly sticks to simple prompts or directions to continue reading. There is a missed opportunity to engage the child with a variety of CROWD prompts that could enhance the storytelling experience and learning.",
+        "Quotes": [
+            "Line [1]: \"You also read this one, right?\"",
+            "Line [7]: \"Okay, do you want to read this one?\"",
+            "Line [30]: \"Wait. How?\"",
+            "Line [78]: \"This, we know what it is, right?\""
+        ],
+        "Score": "4/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent provides some evaluations of the child\u2019s responses by affirming with phrases like \u201cgood\u201d or repeating the correct responses, but this is infrequent. Most responses do not get clear evaluations, which could help reinforce the child's correct answers and build confidence.",
+        "Quotes": [
+            "Line [22]: \"Good.\"",
+            "Line [36]: \"Good.\"",
+            "Line [44]: \"Good.\"",
+            "Line [102]: \"The end. There you go.\""
+        ],
+        "Score": "5/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent occasionally expands on the child's responses by providing the correct wording or adding simple expansions. However, these expansions are not consistent or detailed enough to enhance the child\u2019s understanding significantly.",
+        "Quotes": [
+            "Line [26]: \"He could not fly, but he could walk.\"",
+            "Line [28]: \"He did not know what his mother looked like.\"",
+            "Line [76]: \"Mother, mother. Here I am, mother.\u201d",
+            "Line [102]: \"You are not a boat or a plane or a snort.\""
+        ],
+        "Score": "5/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent does not consistently repeat prompts after expansions to ensure the child has learned from the interaction. Most interactions end without revisiting the prompt to reinforce learning.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "2/10"
+    },
+    "Overall Score": "4/10",
+    "Explanation": "The parent mostly provides simple prompts and evaluations and does some expansion but rarely repeats the prompts. There's a significant opportunity to improve in all four PEER areas by using more engaging, varied, and consistent dialogic reading practices.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Ask the child open-ended questions that require critical thinking and imagination.",
+            "Example: \"Why do you think the baby bird wants to find his mother so badly?\""
+        ],
+        "Incorporate Recall Prompts:": [
+            "Engage the child by asking about what happened earlier in the story to reinforce comprehension.",
+            "Example: \"Do you remember what the baby bird said when he saw the kitten?\""
+        ],
+        "Use Completion Prompts:": [
+            "Encourage the child to complete the sentences to improve their grasp of language structure.",
+            "Example: \"The egg jumped, it jumped, and it...\""
+        ],
+        "Increase Evaluations:": [
+            "More frequent and detailed evaluations will help the child know when they are correct and provide encouragement.",
+            "Example: \"That\u2019s right! The baby bird could not fly, but he could walk. Great job!\""
+        ],
+        "Expand More Frequently and Thoroughly:": [
+            "After the child responds, add more information to their responses to deepen understanding.",
+            "Example: \"He didn't see his mother because he went by her. Maybe he didn't know what she looked like and was too focused on finding her quickly.\""
+        ],
+        "Repeat the Prompt:": [
+            "After expanding on the child\u2019s response, revisit the original prompt to reinforce learning.",
+            "Example: \"That\u2019s right. Can you say it again? 'He could walk.'\""
+        ]
+    }
+}

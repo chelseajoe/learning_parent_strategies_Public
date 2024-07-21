@@ -55,27 +55,25 @@ The parent mostly provides simple prompts and evaluations and does some expansio
 How the Parent Can Improve:
 
 Use More Engaging Prompts:
-Ask the child open-ended questions that require critical thinking and imagination.
-Example: "Why do you think the baby bird wants to find his mother so badly?"
+- Ask the child open-ended questions that require critical thinking and imagination.
+- Example: "Why do you think the baby bird wants to find his mother so badly?"
 
 Incorporate Recall Prompts:
-Engage the child by asking about what happened earlier in the story to reinforce comprehension.
-Example: "Do you remember what the baby bird said when he saw the kitten?"
+- Engage the child by asking about what happened earlier in the story to reinforce comprehension.
+- Example: "Do you remember what the baby bird said when he saw the kitten?"
 
 Use Completion Prompts:
-Encourage the child to complete the sentences to improve their grasp of language structure.
-Example: "The egg jumped, it jumped, and it..."
+- Encourage the child to complete the sentences to improve their grasp of language structure.
+- Example: "The egg jumped, it jumped, and it..."
 
 Increase Evaluations:
-More frequent and detailed evaluations will help the child know when they are correct and provide encouragement.
-Example: "That’s right! The baby bird could not fly, but he could walk. Great job!"
+- More frequent and detailed evaluations will help the child know when they are correct and provide encouragement.
+- Example: "That’s right! The baby bird could not fly, but he could walk. Great job!"
 
 Expand More Frequently and Thoroughly:
-After the child responds, add more information to their responses to deepen understanding.
-Example: "He didn't see his mother because he went by her. Maybe he didn't know what she looked like and was too focused on finding her quickly."
+- After the child responds, add more information to their responses to deepen understanding.
+- Example: "He didn't see his mother because he went by her. Maybe he didn't know what she looked like and was too focused on finding her quickly."
 
 Repeat the Prompt:
-After expanding on the child’s response, revisit the original prompt to reinforce learning.
-Example: "That’s right. Can you say it again? 'He could walk.'"
-
-By incorporating these dialogic reading techniques, the parent can make the reading session more interactive, beneficial, and enjoyable for the child.
+- After expanding on the child’s response, revisit the original prompt to reinforce learning.
+- Example: "That’s right. Can you say it again? 'He could walk.'"

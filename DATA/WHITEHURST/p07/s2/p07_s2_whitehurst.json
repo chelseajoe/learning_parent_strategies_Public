@@ -1,0 +1,75 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent prompts the child quite frequently during the reading, which encourages the child to engage with the story. However, many of the prompts are simple and lack the diversity described by the CROWD acronym. Prompts could be more varied to challenge the child's thinking and conversational skills.",
+        "Quotes": [
+            "Line [23]: \"How many pancakes can you eat?\"",
+            "Line [25]: \"Where is it?\"",
+            "Line [30]: \"Shall we read on?\"",
+            "Line [60]: \"Are they happy with that?\"",
+            "Line [63]: \"Do you know what a fog is?\"",
+            "Line [79]: \"Is that good or bad?\"",
+            "Line [99]: \"What is a swivel chair? Is that one of these that can turn around?\"",
+            "Line [107]: \"What's the dog doing? Helping?\"",
+            "Line [110]: \"Why do you think that is? What's the dog doing?\"",
+            "Line [117]: \"Do you want me to read one of the letters?\""
+        ],
+        "Score": "7/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent generally acknowledges the child's responses but sometimes misses opportunities to provide a clear evaluation of the child's input. Clear evaluations are crucial to reinforce the child's correct responses and understanding.",
+        "Quotes": [
+            "Line [32]: \"I think it's here.\"",
+            "Line [53]: \"Did he eat this?\"",
+            "Line [81]: \"Bad? Because a pancake falls on the school and you can't go to school?\"",
+            "Line [101]: \"Would you listen to those safety tips? Yeah? Cool.\"",
+            "Line [120]: \"Is it imagination or did the kids see the dog do all these things?\""
+        ],
+        "Score": "6/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent occasionally expands on the child's responses by adding information or rephrasing, but these expansions are not as frequent or in-depth as they could be. Expansion helps to enrich the child's understanding and vocabulary.",
+        "Quotes": [
+            "Line [34]: \"What if it's warm though that day? Do you think it would still be frozen by the time it gets down?\"",
+            "Line [65]: \"It's a low hanging cloud and then you can't see anything else.\"",
+            "Line [77]: \"It means old bread or old food.\"",
+            "Line [130]: \"Maybe he's showing what happens to you when you go swimming during an electrical storm. You get all fuzzy.\"",
+            "Line [134]: \"What do you think is going to be surprised about?\""
+        ],
+        "Score": "5/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent rarely repeats prompts after expansions to ensure the child has learned from the additional information. Repetition is important to reinforce learning and cement understanding.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "2/10"
+    },
+    "Overall Score": "5/10",
+    "Explanation": "The parent engages well with the child, frequently prompting them to participate in reading. However, the types of prompts used could be more varied to better align with the CROWD acronym. Evaluations are performed but are not always clear or reinforcing, expansions happen but lack consistency and depth, and repetition of prompts after expansions is virtually absent.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Ask the child more open-ended questions that require critical thinking and imagination.",
+            "Example: \"Why do you think the townspeople don't have food stores?\""
+        ],
+        "Incorporate Recall Prompts:": [
+            "Help the child understand the story plot and describe sequences of events.",
+            "Example: \"Can you tell me what happened when the pancake flew through the air?\""
+        ],
+        "Utilize Distancing Prompts:": [
+            "Ask the child to relate the story to their own experiences.",
+            "Example: \"Have you ever had a day where it rained a lot? What did it feel like?\""
+        ],
+        "Provide Clear Evaluations:": [
+            "Acknowledge and reinforce the child's correct responses.",
+            "Example: \"Yes, that's right. It is a pancake! Good job.\""
+        ],
+        "Expand More Frequently and In-Depth:": [
+            "Rephrase or add more detailed information to the child's responses to enrich vocabulary and understanding.",
+            "Example: \"Yes, it's a fog. A fog is like a cloud that's close to the ground and makes it hard to see.\""
+        ],
+        "Repeat Prompts After Expansions:": [
+            "Ensure the child has learned new vocabulary or information by repeating the prompts.",
+            "Example: \"Can you say 'fog' again for me? Remember, it's like a cloud that's close to the ground.\""
+        ]
+    }
+}

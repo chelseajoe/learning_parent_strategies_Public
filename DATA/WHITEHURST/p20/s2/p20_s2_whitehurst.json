@@ -1,0 +1,69 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent prompts the child multiple times during the reading, but the prompts tend to be basic and not very engaging or challenging. They mostly ask identification questions or prompt for actions.",
+        "Quotes": [
+            "Line [7]: \"What does that one say?\"",
+            "Line [17]: \"Why is that? Was he standing on the swivel chair?\"",
+            "Line [23]: \"What's happening?\"",
+            "Line [36]: \"What's that kid doing?\""
+        ],
+        "Score": "5/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent provides some evaluations of the child's responses, but it's often in the form of affirmations rather than deeper evaluations. They sometimes acknowledge the child's responses but not consistently.",
+        "Quotes": [
+            "Line [29]: \"Uh-oh, it looks so dangerous, so dangerous!\"",
+            "Line [40]: \"The children sat up and stared. Why do they think it's cool?\"",
+            "Line [44]: \"Uh-oh, he's going to lose his hat going in the tunnel.\""
+        ],
+        "Score": "6/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent occasionally expands on the child's responses by adding more information, but the expansions lack depth. They sometimes rephrase the child's response or add a little information but don't frequently build on the child's input meaningfully.",
+        "Quotes": [
+            "Line [27]: \"I think he fell on the water from the water fountain, what's happened there to that kid?\"",
+            "Line [28]: \"Uh-oh, and what could happen there?\"",
+            "Line [188]: \"She's busy getting a worm for him to eat.\""
+        ],
+        "Score": "6/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent does not consistently repeat prompts after expanding the child's response to reinforce learning. There are few instances of repetition aimed at ensuring the child has learned from expansions.",
+        "Quotes": [
+            "No clear instances of repetition after expansion were found."
+        ],
+        "Score": "2/10"
+    },
+    "Overall Score": "5/10",
+    "Explanation": "The parent incorporates some elements of the PEER method, particularly Prompting and Evaluating. However, they lack depth in Expanding the child's responses and do not consistently Repeat prompts to reinforce learning.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Ask open-ended questions that require critical thinking and imagination.",
+            "Example: \"Why do you think Gloria the dog is important for safety tips?\""
+        ],
+        "Incorporate Completion Prompts:": [
+            "Ask the child to fill in the blanks.",
+            "Example: \"Officer Buckle gave safety tip number one: Keep your shoelaces ___. How should they be?\""
+        ],
+        "Incorporate Recall Prompts:": [
+            "Encourage the child to remember and explain past events in the story.",
+            "Example: \"Do you remember what happened when Officer Buckle first brought Gloria to the school?\""
+        ],
+        "Ask More Wh- Prompts:": [
+            "Use who, what, where, when, why, and how questions to build vocabulary.",
+            "Example: \"What do you think will happen next?\""
+        ],
+        "Incorporate Distancing Prompts:": [
+            "Help the child connect the story to their own experiences.",
+            "Example: \"Have you ever seen a dog like Gloria? What was it doing?\""
+        ],
+        "Expand Responses More Deeply:": [
+            "Add descriptive details and information to expand the child's responses.",
+            "Example: If the child says, \"He fell down,\" expand with, \"Yes, he fell because his shoelace was untied, and that\u2019s why Officer Buckle had the rule about keeping shoelaces tied.\""
+        ],
+        "Repeat the Prompts:": [
+            "After expanding their response, repeat the initial question to ensure understanding.",
+            "Example: \"So, what should you always do with your shoelaces?\""
+        ]
+    }
+}

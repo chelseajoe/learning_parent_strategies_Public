@@ -111,8 +111,8 @@ def gpt_chunking(concatenated_transcript):
     How the Parent Can Improve:
 
     Use More Engaging Prompts:
-    Ask the child more open-ended questions that require critical thinking and imagination.
-    Example: "Why do you think Sam doesn't like green eggs and ham?"
+    - Ask the child more open-ended questions that require critical thinking and imagination.
+    - Example: "Why do you think Sam doesn't like green eggs and ham?"
 
     ... (more examples of how the parent can improve based on formatting of example above)
 
@@ -149,7 +149,7 @@ def gpt_chunking(concatenated_transcript):
 def whitehurst_analysis_generation(header_directory, participant, session):
     # Generate file paths
     file_path = f'{header_directory}/CSV_FILES/{participant}/{session}/{participant}_{session}_output.csv'
-    output_txt_path = f'{header_directory}/WHITEHURST/{participant}/{session}/{participant}_{session}_whitehurst.txt'
+    output_txt_path = f'{header_directory}/GENERATED_WHITEHURST/{participant}/{session}/{participant}_{session}_whitehurst.txt'
     # Process transcript and save result
     concatenated_transcripts = concatenate_transcripts(file_path)
     result = gpt_chunking(concatenated_transcripts)

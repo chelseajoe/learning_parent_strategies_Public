@@ -71,7 +71,7 @@ Quotes:
 
 Score: 3/10
 
-Overall Score: 24/40
+Overall Score: 7/10
 
 Explanation:
 The parent does many things well, such as prompting the child frequently, evaluating responses positively, and occasionally expanding on the child's answers. However, the repetition of prompts and some expansions could be enhanced to ensure the child's thorough comprehension and engagement with the story.
@@ -79,27 +79,25 @@ The parent does many things well, such as prompting the child frequently, evalua
 How the Parent Can Improve:
 
 Use More Engaging Prompts:
-Ask the child more open-ended questions that require critical thinking and imagination.
-Example: "Why do you think Spoon feels blue?"
+- Ask the child more open-ended questions that require critical thinking and imagination.
+- Example: "Why do you think Spoon feels blue?"
 
 Use Completion Prompts:
-Encourage the child to complete sentences to foster understanding of language structure.
-Example: "Spoon feels blue because he feels..."
+- Encourage the child to complete sentences to foster understanding of language structure.
+- Example: "Spoon feels blue because he feels..."
 
 Employ Recall Prompts:
-Ask questions about previously read parts of the story to deepen comprehension.
-Example: "What did Knife say about Spoon earlier?"
+- Ask questions about previously read parts of the story to deepen comprehension.
+- Example: "What did Knife say about Spoon earlier?"
 
 Frequency and Specificity in Evaluations:
-Provide clear, specific evaluations to reinforce the child’s correct responses.
-Example: "That's right, a bow tie. Bow ties are usually worn for fancy events."
+- Provide clear, specific evaluations to reinforce the child’s correct responses.
+- Example: "That's right, a bow tie. Bow ties are usually worn for fancy events."
 
 Expand More Creatively:
-Expand by incorporating more descriptive and imaginative elements.
-Example: "A tie! Ties are often worn at important events like parties and meetings."
+- Expand by incorporating more descriptive and imaginative elements.
+- Example: "A tie! Ties are often worn at important events like parties and meetings."
 
 Repeat Prompts Regularly:
-Reiterate prompts after expansions to reinforce learning.
-Example: "That's right, Spoon feels sad. Can you say why Spoon feels sad?"
-
-Overall, these improvements can help ensure a more balanced, engaging, and educational dialogic reading session.
+- Reiterate prompts after expansions to reinforce learning.
+- Example: "That's right, Spoon feels sad. Can you say why Spoon feels sad?"

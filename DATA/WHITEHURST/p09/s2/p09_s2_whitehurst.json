@@ -1,0 +1,67 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent prompts the child several times during the reading, focusing on identification and open-ended questions. However, the prompts could be more varied and stimulating to encourage deeper engagement from the child.",
+        "Quotes": [
+            "Line [12]: \"What's the color of the egg?\"",
+            "Line [14]: \"He want to eat what?\"",
+            "Line [21]: \"What happened?\"",
+            "Line [38]: \"Where could she be?\""
+        ],
+        "Score": "7/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent evaluates the child's responses either by affirming them or repeating them. While there is consistent acknowledgment, some evaluations could be more explicit and encouraging to reinforce correct answers and build confidence.",
+        "Quotes": [
+            "Line [13]: \"Hmm. Mother bird...\"",
+            "Line [16]: \"Bugs.\"",
+            "Line [22]: \"Yeah.\"",
+            "Line [49]: \"How could I be your mother?\""
+        ],
+        "Score": "7/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent sometimes expands the child's responses by adding more information or rephrasing them, which helps in building the child's understanding. There are several instances where the parent could provide more contextual information to enhance learning.",
+        "Quotes": [
+            "Line [17]: \"Bugs. Worms.\"",
+            "Line [23]: \"The egg jumped. It jumped and it jumped and it jumped.\"",
+            "Line [57]: \"You are not a kitten, you are not a heir, you are not a dog, you are not a cow, you are not a boat, or a plane, or a Snort, you are a bird and you are my-\""
+        ],
+        "Score": "6/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent does not consistently repeat prompts to ensure the child has learned from expansions. There are very few instances where the parent revisits a point to reinforce the child's learning, missing opportunities to solidify the child's understanding.",
+        "Quotes": [
+            "Line [57]: \"Do you know who I am?\" She said to her baby. \"yes, I know who you are,\" said the baby bird. \"You are not a kitten, you are not a heir, you are not a dog, you are not a cow, you are not a boat, or a plane, or a Snort, you are a bird and you are my\"-",
+            "Line [85]: \"Wheres' the swivel chair?\""
+        ],
+        "Score": "3/10"
+    },
+    "Overall Score": "6/10",
+    "Explanation": "The parent does a fair job of prompting the child and evaluating responses but could improve significantly by diversifying the types of prompts and being more explicit and encouraging in evaluations. Expansion of responses occurs but can be more frequent and informative. Repeating prompts is the weakest area and needs more focus.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Ask the child more completion and recall questions that require critical thinking and imagination.",
+            "Example: \"The baby bird looked up and did not see her, he looked down and did not see __?\" (Completion prompt)."
+        ],
+        "Enhance Evaluations:": [
+            "Be more explicit and encouraging when evaluating the child's responses to reinforce correct answers.",
+            "Example: \"That's right, yellow is the color of the egg. You know your colors very well!\""
+        ],
+        "Expand Responses More:": [
+            "Provide additional information or related context to expand the child\u2019s understanding when they respond.",
+            "Example: \"Bugs, yes, baby birds love to eat bugs because they are small and full of protein which helps them grow.\""
+        ],
+        "Repeat the Prompt:": [
+            "After expanding on the child's response, repeat the original prompt to ensure the child has absorbed the information.",
+            "Example: \"Now that you know what birds eat, can you tell me again what the mother bird went to find for her baby to eat?\""
+        ],
+        "Incorporate CROWD Prompts:": [
+            "Use a mixture of Completion, Recall, Open-ended, Wh- and Distancing prompts to make the interaction richer and more educational.",
+            "Completion Prompt: \"The baby bird looked for its __.\"",
+            "Recall Prompt: \"Do you remember what the mother bird was looking for?\"",
+            "Open-ended Prompt: \"How do you think the baby bird felt when it couldn't find its mother?\"",
+            "Wh- Prompt: \"What did the mother bird do after the egg jumped?\"",
+            "Distancing Prompt: \"Have you ever seen a baby bird in real life? What was it doing?\""
+        ]
+    }
+}

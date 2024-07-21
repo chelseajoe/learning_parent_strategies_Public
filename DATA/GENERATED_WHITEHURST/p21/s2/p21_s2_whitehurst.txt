@@ -44,9 +44,9 @@ The parent does not consistently repeat prompts to ensure the child has learned 
 Quotes:
 - There are no clear instances of repetition after expansion.
 
-Score: 0/10
+Score: 1/10
 
-Overall Score: 10/40
+Overall Score: 4/10
 
 Explanation:
 The parent engages in some basic interaction with the child, mainly through simple prompts and occasional acknowledgment of responses. However, they lack depth and structure in their approach. The parent does not fully capitalize on the opportunities to engage in deeper dialogic reading practices, such as evaluating, expanding, and repeating prompts.
@@ -54,23 +54,21 @@ The parent engages in some basic interaction with the child, mainly through simp
 How the Parent Can Improve:
 
 Use More Engaging Prompts:
-Ask the child more open-ended questions that require critical thinking and imagination.
-Example: "Why do you think Horton decided to sit on the egg?"
+- Ask the child more open-ended questions that require critical thinking and imagination.
+- Example: "Why do you think Horton decided to sit on the egg?"
 
 Incorporate Different Types of CROWD Prompts:
-Use more completion, recall, open-ended, wh- prompts, and distancing prompts to engage the child in different ways.
-Example: "What do you think happens next after Horton sits on the egg?"
+- Use more completion, recall, open-ended, wh- prompts, and distancing prompts to engage the child in different ways.
+- Example: "What do you think happens next after Horton sits on the egg?"
 
 Evaluate the Child's Responses:
-Provide more explicit feedback to the child's responses, indicating correctness and adding positive reinforcement.
-Example: "Yes, that's right, Horton is taking care of the egg. Good job remembering!"
+- Provide more explicit feedback to the child's responses, indicating correctness and adding positive reinforcement.
+- Example: "Yes, that's right, Horton is taking care of the egg. Good job remembering!"
 
 Expand on the Child's Responses:
-Add more context or information to the child's answers to enhance their understanding and engagement with the story.
-Example: "Yes, they did sell Horton to the circus. That's so sad. Why do you think the circus wanted him?"
+- Add more context or information to the child's answers to enhance their understanding and engagement with the story.
+- Example: "Yes, they did sell Horton to the circus. That's so sad. Why do you think the circus wanted him?"
 
 Repeat the Prompt:
-Ensure that after expanding on the child's response, you repeat the prompt to reinforce learning.
-Example: "Remember, Horton said he would sit on the egg. Why do you think he wants to keep his promise?"
-
-By incorporating these improvements, the parent can significantly enhance their use of dialogic reading practices, making the reading experience more interactive and beneficial for the child's learning and engagement.
+- Ensure that after expanding on the child's response, you repeat the prompt to reinforce learning.
+- Example: "Remember, Horton said he would sit on the egg. Why do you think he wants to keep his promise?"

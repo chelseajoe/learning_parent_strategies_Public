@@ -1,0 +1,60 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent prompts the child occasionally, but the prompts are often passive and lack diversity. They do not fully engage the child in the story or encourage critical thinking.",
+        "Quotes": [
+            "Line [7]: \"Ready?\"",
+            "Line [32]: \"Want to turn the page or want me to?\"",
+            "Line [48]: \"Do you want to read Spoon?\""
+        ],
+        "Score": "4/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent rarely evaluates the child's responses clearly. There are very few instances where the parent's responses could be considered as evaluations, and most interactions are more about guiding through the reading.",
+        "Quotes": [
+            "Line [92]: \"Yes.\"",
+            "Line [98]: \"Oh, right there. I didn't notice that before.\""
+        ],
+        "Score": "3/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "Expansion of the child's responses is infrequent. The parent occasionally adds a bit more information or acknowledges, but rarely extends the conversation or adds educational value.",
+        "Quotes": [
+            "Line [87]: \"And they're just trying to guess what is causing it, so every time they say something, it pops out.\""
+        ],
+        "Score": "4/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent does not effectively use repetition to reinforce learning. There are no clear examples where the parent repeats prompts to ensure the child's understanding has deepened.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "1/10"
+    },
+    "Overall Score": "4/10",
+    "Explanation": "The parent can significantly improve in their engagement with the child during the reading session. While there are occasional prompts and expansions, they are not consistently used to enhance the child\u2019s learning experience. The evaluation of responses and repetition of prompts are notably scarce and would benefit from more deliberate usage.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Incorporate more varied and engaging prompts beyond simple yes/no questions or prompts for action.",
+            "Example: \"Why do you think Gloria makes the children laugh?\""
+        ],
+        "Evaluate Responses Clearly:": [
+            "Make sure to evaluate the child's responses by acknowledging when they are correct and providing positive reinforcement.",
+            "Example: Child: \"That's a dog!\" Parent: \"Yes, that's right! It's a police dog named Gloria. Good job!\""
+        ],
+        "Expand on Responses Meaningfully:": [
+            "Add more depth to the child's responses by providing additional information or rephrasing what the child has said.",
+            "Example: Parent: \"That's correct, it's a dog. Gloria is a police dog who helps Officer Buckle. Can you say police dog?\""
+        ],
+        "Repeat Prompts to Reinforce Learning:": [
+            "Revisit prompts to reinforce learning and ensure the child has understood the new information.",
+            "Example: Parent: \"Remember how Gloria obeys Officer Buckle? What was one of the safety tips they taught?\""
+        ],
+        "Incorporate CROWD Prompts:": [
+            "Completion Prompt: \u201cOfficer Buckle\u2019s safety tip number seventy-seven is never stand on a swivel ___.\u201d",
+            "Recall Prompt: \u201cDo you remember what happened at the school when Gloria visited?\u201d",
+            "Open-ended Prompt: \u201cWhat do you think Gloria is doing in this picture?\u201d",
+            "Wh- Prompt: \u201cWhy do you think the children started listening to Officer Buckle\u2019s tips?\u201d",
+            "Distancing Prompt: \u201cCan you think of a time when you had to remember to be safe like Gloria and Officer Buckle?\u201d"
+        ]
+    }
+}

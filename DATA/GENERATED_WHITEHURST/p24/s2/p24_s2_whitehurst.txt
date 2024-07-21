@@ -48,28 +48,23 @@ The parent can significantly improve in their engagement with the child during t
 
 How the Parent Can Improve:
 
-- Use More Engaging Prompts:
-  Incorporate more varied and engaging prompts beyond simple yes/no questions or prompts for action.
-  Example: "Why do you think Gloria makes the children laugh?"
+Use More Engaging Prompts:
+  - Incorporate more varied and engaging prompts beyond simple yes/no questions or prompts for action.
+  - Example: "Why do you think Gloria makes the children laugh?"
 
-- Evaluate Responses Clearly:
-  Make sure to evaluate the child's responses by acknowledging when they are correct and providing positive reinforcement.
-  Example: 
-  Child: "That's a dog!"
-  Parent: "Yes, that's right! It's a police dog named Gloria. Good job!"
+Evaluate Responses Clearly:
+  - Make sure to evaluate the child's responses by acknowledging when they are correct and providing positive reinforcement.
+  - Example: Child: "That's a dog!" Parent: "Yes, that's right! It's a police dog named Gloria. Good job!"
 
-- Expand on Responses Meaningfully:
-  Add more depth to the child's responses by providing additional information or rephrasing what the child has said.
-  Example: 
-  Parent: "That's correct, it's a dog. Gloria is a police dog who helps Officer Buckle. Can you say police dog?"
+Expand on Responses Meaningfully:
+  - Add more depth to the child's responses by providing additional information or rephrasing what the child has said.
+  - Example: Parent: "That's correct, it's a dog. Gloria is a police dog who helps Officer Buckle. Can you say police dog?"
 
-- Repeat Prompts to Reinforce Learning:
-  Revisit prompts to reinforce learning and ensure the child has understood the new information.
-  Example: 
-  Parent: "Remember how Gloria obeys Officer Buckle? What was one of the safety tips they taught?"
+Repeat Prompts to Reinforce Learning:
+  - Revisit prompts to reinforce learning and ensure the child has understood the new information.
+  - Example: Parent: "Remember how Gloria obeys Officer Buckle? What was one of the safety tips they taught?"
 
-- Incorporate CROWD Prompts:
-  Use a variety of CROWD prompts to engage the child further in the story:
+Incorporate CROWD Prompts:
   - Completion Prompt: “Officer Buckle’s safety tip number seventy-seven is never stand on a swivel ___.”
   - Recall Prompt: “Do you remember what happened at the school when Gloria visited?”
   - Open-ended Prompt: “What do you think Gloria is doing in this picture?”

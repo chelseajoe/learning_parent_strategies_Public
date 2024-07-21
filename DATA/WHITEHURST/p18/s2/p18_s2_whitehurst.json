@@ -1,0 +1,65 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent frequently prompts the child with questions and instructions that engage the child within the context of the book. The prompts mainly focus on identifying characters and predicting what happens next, which keeps the child attentive but could benefit from more variety and engagement.",
+        "Quotes": [
+            "Line [6]: \"What do you see in this picture?\"",
+            "Line [14]: \"And then what does she do?\"",
+            "Line [16]: \"And... what happened?\"",
+            "Line [22]: \"Has he ever seen his mother yet?\"",
+            "Line [27]: \"What did he say?\"",
+            "Line [35]: \"Where is he going to go next?\""
+        ],
+        "Score": "8/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent consistently and positively acknowledges the child's efforts and responses, providing affirmations and occasionally elaborating on the responses. This encouragement boosts the child's confidence but could be more specific about what the child did correctly.",
+        "Quotes": [
+            "Line [14]: \"Yeah, very good!\"",
+            "Line [18]: \"It cracked open and then the baby bird. Out came the baby bird!\"",
+            "Line [30]: \"Yeah, hen. Good job.\"",
+            "Line [34]: \"Good! So, the baby bird went on. Hey, you read a whole sentence. All by yourself.\"",
+            "Line [149]: \"When did you learn how to read so well? Okay.\""
+        ],
+        "Score": "7/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent frequently expands on the child\u2019s responses by rephrasing and adding information. This helps in enriching the child\u2019s understanding but could use more depth and variety in explanations.",
+        "Quotes": [
+            "Line [8]: \"Yeah. The mama bird getting a worm?\"",
+            "Line [16]: \"She went... Yeah, she flew off to find some food. So away she went.\"",
+            "Line [50]: \"He ran right up to it. 'Mother, mother I'm here!' He said to the big thing.\"",
+            "Line [72]: \"No, try to sound it out. What sound does a b make?\"",
+            "Line [128]: \"What letter does mouse start with?\""
+        ],
+        "Score": "8/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent occasionally repeats prompts to ensure retention of information, making the child repeat relevant words or sentences. More consistent repetitions could reinforce memory and understanding effectively.",
+        "Quotes": [
+            "Line [6]: \"What do you see in this picture?\"",
+            "Line [40]: \"A cow, that's right. 'Are you my mother?' He said to the cow.\"",
+            "Line [63]: \"Yeah. What's this word here? You are a... B-I-R-D. Can you make those sounds?\""
+        ],
+        "Score": "7/10"
+    },
+    "Overall Score": "8/10",
+    "Explanation": "The parent does an excellent job of engaging the child through frequent prompts and always encouraging the child\u2019s participation. However, specificity in their evaluations and more varied and in-depth expansions would further benefit the child\u2019s learning experience. There is some room for improvement in consistently repeating prompts to ensure the child understands and retains the information.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Incorporate more CROWD prompts, such as open-ended and wh- questions.",
+            "Example: \"Why do you think the baby bird didn't stop at the kitten?\""
+        ],
+        "Evaluate More Specifically:": [
+            "Provide more detailed feedback that highlights what the child did well specifically.",
+            "Example: \"Great job! You recognized 'hen' by looking at the picture and the letters.\""
+        ],
+        "Expand Responses With More Depth:": [
+            "Add more information to broaden the child\u2019s understanding.",
+            "Example: After the child says \"The mother bird,\" the parent could add, \"Yes, the mother bird is sitting on the egg because it needs to keep it warm until it hatches.\""
+        ],
+        "Consistently Repeat Prompts:": [
+            "Revisit prompts more often to reinforce the child\u2019s learning.",
+            "Example: \"Earlier, we talked about the kitten not being the mother. Can you tell me why the kitten can\u2019t be the mother?\""
+        ]
+    }
+}

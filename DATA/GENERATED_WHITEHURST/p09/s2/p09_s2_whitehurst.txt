@@ -54,25 +54,24 @@ The parent does a fair job of prompting the child and evaluating responses but c
 
 How the Parent Can Improve:
 
-1. Use More Engaging Prompts:
-   Ask the child more completion and recall questions that require critical thinking and imagination.
-   Example: "The baby bird looked up and did not see her, he looked down and did not see __?" (Completion prompt).
+Use More Engaging Prompts:
+   - Ask the child more completion and recall questions that require critical thinking and imagination.
+   - Example: "The baby bird looked up and did not see her, he looked down and did not see __?" (Completion prompt).
 
-2. Enhance Evaluations:
-   Be more explicit and encouraging when evaluating the child's responses to reinforce correct answers.
-   Example: "That's right, yellow is the color of the egg. You know your colors very well!"
+Enhance Evaluations:
+   - Be more explicit and encouraging when evaluating the child's responses to reinforce correct answers.
+   - Example: "That's right, yellow is the color of the egg. You know your colors very well!"
 
-3. Expand Responses More:
-   Provide additional information or related context to expand the child’s understanding when they respond.
-   Example: "Bugs, yes, baby birds love to eat bugs because they are small and full of protein which helps them grow."
+Expand Responses More:
+   - Provide additional information or related context to expand the child’s understanding when they respond.
+   - Example: "Bugs, yes, baby birds love to eat bugs because they are small and full of protein which helps them grow."
 
-4. Repeat the Prompt:
-   After expanding on the child's response, repeat the original prompt to ensure the child has absorbed the information.
-   Example: "Now that you know what birds eat, can you tell me again what the mother bird went to find for her baby to eat?"
+Repeat the Prompt:
+   - After expanding on the child's response, repeat the original prompt to ensure the child has absorbed the information.
+   - Example: "Now that you know what birds eat, can you tell me again what the mother bird went to find for her baby to eat?"
 
-5. Incorporate CROWD Prompts:
-   Use a mixture of Completion, Recall, Open-ended, Wh- and Distancing prompts to make the interaction richer and more educational.
-   Example:
+Incorporate CROWD Prompts:
+   - Use a mixture of Completion, Recall, Open-ended, Wh- and Distancing prompts to make the interaction richer and more educational.
    - Completion Prompt: "The baby bird looked for its __."
    - Recall Prompt: "Do you remember what the mother bird was looking for?"
    - Open-ended Prompt: "How do you think the baby bird felt when it couldn't find its mother?"
