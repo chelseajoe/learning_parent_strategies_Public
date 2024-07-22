@@ -166,6 +166,6 @@ def whitehurst_analysis_generation(header_directory, participant, session):
     print(f"Whitehurst analysis generated for: {output_txt_path}")
 # Example usage
 header_directory = 'DATA'
-participant = 'p06'
-session = 's2'
+participant = 'p10'
+session = 's1'
 whitehurst_analysis_generation(header_directory, participant, session)

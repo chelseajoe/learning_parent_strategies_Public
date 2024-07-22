@@ -1,0 +1,79 @@
+1. Prompting the Child:
+
+Analysis:
+The parent does prompt the child multiple times during the reading, but the prompts are predominantly repetitive and simple, focusing mainly on completion prompts to keep the child engaged. There is very little variety in the prompts used.
+
+Quotes:
+- Line [24]: "And"
+- Line [28]: "On a house"
+- Line [30]: "On a?"
+- Line [58]: "Okay and"
+- Line [84]: "What is this?"
+
+Score: 4/10
+
+2. Evaluating the Child's Response:
+
+Analysis:
+The parent occasionally acknowledges the child's responses with affirmatives but does not provide consistent or substantive evaluations of the child's responses. Evaluations are minimal and often just affirmations or repetitions of what the child says.
+
+Quotes:
+- Line [12]: "Good."
+- Line [26]: "Good."
+- Line [52]: "No going away [crosstalk]"
+- Line [92]: "Good. You got that dog now."
+
+Score: 4/10
+
+3. Expanding the Child's Response:
+
+Analysis:
+The parent rarely expands on the child’s responses. The few expansions present do not add significant new information or rephrase the child’s statements to enhance understanding.
+
+Quotes:
+- Line [106]: "Why?"
+- Line [110]: "Will they work there?"
+
+Score: 3/10
+
+4. Repeating the Prompt:
+
+Analysis:
+There are very few instances where the parent repeats prompts to ensure that the child has learned from the expansion. The focus remains on moving through the text rather than reinforcing learned content.
+
+Quotes:
+- Line [66]: "Can you sit properly?"
+- Line [72]: "All dogs"
+
+Score: 2/10
+
+Overall Score: 3.25/10
+
+Explanation:
+The parent can improve significantly in all four areas of the PEER sequence. The parent's interaction tends to be precise in prompting but lacks engaging and varied prompts. Evaluations and expansions are minimal and repetitive. There is little evidence of repeating prompts to reinforce learning.
+
+How the Parent Can Improve:
+
+1. Use More Engaging Prompts:
+   - Ask the child more open-ended questions that require critical thinking and imagination.
+   - Example: "Why do you think the dogs want to go to the top of the tree?"
+
+2. Provide More Meaningful Evaluations:
+   - Rather than just affirming with "good" or "uh-huh," offer more detailed evaluations.
+   - Example: "Yes, that's correct! The dog is on top of the house because it climbed up there."
+
+3. Expand Responses with Additional Details:
+   - When the child gives an answer, expand on it with additional information or rephrasing.
+   - Example: If the child says, "The dog is up," respond with, "Yes, the blue dog climbed up the tall red tree. It's high up!"
+
+4. Repeat Prompts for Reinforcement:
+   - Repeat the questions or prompts after expanding to reinforce learning.
+   - Example: After expanding, you can ask, "Can you tell me again where the blue dog is?"
+
+Incorporating CROWD prompts:
+- Completion Prompts: "The green dog is on the ... (Let the child fill in the blank)."
+- Recall Prompts: "Do you remember what happened when the dog went up the tree earlier?"
+- Open-ended Prompts: "Tell me what's happening in this picture with the dogs and the trees."
+- Wh- Prompts: "Why do you think the dogs are having a party in the tree?"
+- Distancing Prompts: "Have you ever seen a dog climb a tree like in the book? What do you think it would be like?"
+

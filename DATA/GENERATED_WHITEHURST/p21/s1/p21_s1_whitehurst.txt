@@ -1,0 +1,81 @@
+1. Prompting the Child:
+
+    Analysis:
+    The parent prompts the child occasionally during the reading, but the prompts are mainly centered around basic identification questions. To engage the child more deeply, the parent could use a wider variety of prompts, especially open-ended and wh- prompts.
+
+    Quotes:
+    - Line [5]: "Can you see any high frequency words?"
+    - Line [45]: "What is it?"
+    - Line [50]: "What do you think?"
+    - Line [52]: "What do they do with all that food?"
+    - Line [66]: "What is that?"
+    - Line [97]: "What will happen tomorrow?"
+
+    Score: 5/10
+
+2. Evaluating the Child's Response:
+
+    Analysis:
+    The parent does acknowledge the child's responses but often with simple affirmations rather than detailed evaluations. More substantive feedback would benefit the child's learning and engagement.
+
+    Quotes:
+    - Line [11]: "Yup"
+    - Line [38]: "Okay! All right. Ready?"
+    - Line [46]: "Look at the dog and cat too."
+    - Line [59]: "You think so? ...for the fish and turtles and whales to eat."
+
+    Score: 4/10
+
+3. Expanding the Child's Response:
+
+    Analysis:
+    The parent occasionally expands on the child's responses by adding some information, but this happens infrequently and lacks depth. More consistent and detailed expansions would be beneficial.
+
+    Quotes:
+    - Line [46]: "Look at the dog and cat too."
+    - Line [63]: "They do compost. Good job."
+
+    Score: 3/10
+
+4. Repeating the Prompt:
+
+    Analysis:
+    The parent rarely repeats prompts to ensure that the child has learned from the expansion. Introducing more repetition after expanding the child's responses could help reinforce learning.
+
+    Quotes:
+    - There are no clear instances of repetition after expansion.
+
+    Score: 1/10
+
+Overall Score: 3/10
+
+Explanation:
+The parent can improve in all areas of PEER (Prompting, Evaluating, Expanding, and Repeating). While there is an occasional attempt to engage the child and expand on their responses, it is inconsistent and shallow.
+
+How the Parent Can Improve:
+
+Use More Engaging Prompts:
+    - Ask the child more open-ended questions that require critical thinking and imagination.
+    - Example: "Why do you think Sam doesn't like green eggs and ham?"
+    - What might the people of Chewandswallow do with so much food?
+
+Evaluate the Child's Response Clearly:
+    - Provide clear evaluations instead of simple affirmations.
+    - Example: "That's right, it is a truck. Great job recognizing that!"
+
+Expand the Child's Response More Frequently:
+    - Expand on the child's responses by adding informative and interesting details.
+    - Example: "Yes, it's a truck. It's a big red fire truck that helps put out fires."
+
+Repeat the Prompt After Expanding:
+    - Ensure to repeat the prompt after expanding to reinforce the child's learning.
+    - Example: "Can you say fire truck?"
+
+Incorporate CROWD Prompts:
+    - Completion Prompts: "The dog is under the ___ (table)."
+    - Recall Prompts: "What happened at the beginning of the story?"
+    - Open-ended Prompts: "Tell me what you see in this picture."
+    - Wh- Prompts: "Why do you think the Grinch didn't like Christmas?"
+    - Distancing Prompts: "Have you ever seen a fire truck in real life? What was it like?"
+
+With such strategies in place, the parent can make reading sessions more interactive, educational, and enjoyable for the child, aligning more closely with dialogic reading standards.

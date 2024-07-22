@@ -3,8 +3,10 @@ import json
 import re
 
 def extract_parenting_strategy(content):
-    """Extracts the Parenting Strategy section from the provided content."""
-    match = re.search(r'Parenting Strategy:\s*(.*?)\s*Child Response:', content, re.DOTALL)
+    # Remove all occurrences of '*' and '#' regardless of the number
+    cleaned_content = re.sub(r'[*#]+', '', content)
+    # Perform the regex search on the cleaned content
+    match = re.search(r'Parenting Strategy:\s*(.*?)\s*Child Response:', cleaned_content, re.DOTALL)
     if match:
         return match.group(1).strip()
     return ""
@@ -92,6 +94,6 @@ def create_parent_strategy_full(header_directory, participant, session):
 
 # Example usage
 header_directory = 'DATA'
-participant = 'p25'
+participant = 'p10'
 session = 's1'
 create_parent_strategy_full(header_directory, participant, session)

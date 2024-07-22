@@ -209,6 +209,6 @@ def process_data(header_directory, participant, session):
 
 # Example usage
 header_directory = 'DATA'
-participant = 'p26'
+participant = 'p10'
 session = 's1'
 process_data(header_directory, participant, session)

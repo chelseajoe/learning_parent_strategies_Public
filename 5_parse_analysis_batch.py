@@ -69,6 +69,6 @@ def parse_analysis_batch(header_directory, participant, session):
 
 # Example usage
 header_directory = 'DATA'
-participant = 'p25'
+participant = 'p10'
 session = 's1'
 parse_analysis_batch(header_directory, participant, session)

@@ -1,0 +1,47 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent doesn't use many prompts to engage the child in discussing the book's content. The parent could benefit from using a variety of prompts to maintain the child's interest and foster a deeper understanding.",
+        "Quotes": [
+            "Line [6]: \"Or there?\"",
+            "Line [15]: \"Not in a box.\"",
+            "Line [23]: \"Would you?\"",
+            "Line [25]: \"Would you, could you?\"",
+            "Line [52]: \"On a train.\"",
+            "Line [95]: \"On a boat.\""
+        ],
+        "Score": "3/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent frequently acknowledges the child's reading efforts but often with general and repetitive affirmations. While encouraging, they lack specificity in evaluating the child's understanding or performance.",
+        "Quotes": [
+            "Line [2]: \"Very good.\"",
+            "Line [4]: \"Very nice.\"",
+            "Line [9]: \"Wonderful!\"",
+            "Line [11]: \"Wow!\"",
+            "Line [21]: \"Very nice.\"",
+            "Line [50]: \"Wow!\"",
+            "Line [117]: \"Yes!\"",
+            "Line [120]: \"If you really let me be I will try them, you will see. (laughter)\""
+        ],
+        "Score": "6/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent rarely expands on the child's responses with additional information or rephrasing. Instead, they typically mirror or slightly correct the child's words without adding much new content.",
+        "Quotes": [
+            "Line [99]: \"I will not eat them.\"",
+            "Line [113]: \"Eat them in the rain, I will not eat them on a train.\"",
+            "Line [123]: \"And I would...\""
+        ],
+        "Score": "3/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "There are few instances where the parent repeats the prompts to ensure the child has learned from expansions. The interaction mostly involves prompting and immediate acknowledgment without follow-up for reinforcement.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "1/10"
+    },
+    "Overall Score": "3.25/10",
+    "Explanation": "- Example: \"Can you tell me again what this picture shows?\"",
+    "How the Parent Can Improve": {}
+}

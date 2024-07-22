@@ -1,0 +1,83 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent does prompt the child at a few instances during the reading, but the majority of these prompts lean towards being basic identification questions or yes/no questions. The prompts could be more engaging and varied, encouraging the child to think more deeply about the story.",
+        "Quotes": [
+            "Line [0]: \u201cAre you going to read this story or am I going to read this story?\u201d",
+            "Line [10]: \u201cWould you like to go to school like that?\u201d",
+            "Line [20]: \u201cWhat is that? What do you think is happening there?\u201d",
+            "Line [27]: \u201cDo you know what contagious means?\u201d",
+            "Line [52]: \u201cWhat do you think is happening, Toto?\u201d",
+            "Line [57]: \u201cWhere do you think Camilla is? What's that on her back?\u201d",
+            "Line [59]: \u201cHow do you think she got a tail?\u201d",
+            "Line [106]: \u201cDo you want to read another book? Do you want a short book or a long book?\u201d"
+        ],
+        "Score": "6/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent acknowledges the child's responses but doesn't consistently provide clear and effective evaluations. There are a few instances where the parent does provide an evaluation, but they are not frequent.",
+        "Quotes": [
+            "Line [49]: \u201cThere's the green thing, might be the bacteria tail or the fuzzy are the balls.\u201d",
+            "Line [54]: \u201cYou think the shirt had some virus particle and made her sick? Could be. We'll see.\u201d",
+            "Line [103]: \u201cNo. Everybody can like how they look, Toto.\u201d",
+            "Line [182]: \u201cIce cream, I thought you would love this pickle too.\u201d"
+        ],
+        "Score": "5/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent expands on the child's responses occasionally by adding more context or rephrasing, but it is not consistently done. The expansions could be more comprehensive and frequent.",
+        "Quotes": [
+            "Line [49]: \u201cThere's the green thing, might be the bacteria tail or the fuzzy are the balls.\u201d",
+            "Line [54]: \u201cYou think the shirt had some virus particle and made her sick? Could be. We'll see.\u201d",
+            "Line [142]: \u201cLike a sun is setting in the West. Have you heard the sun is setting in the West?\u201d"
+        ],
+        "Score": "4/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent does not consistently repeat prompts after expanding on them to reinforce learning. There is a missed opportunity to ensure the child understands and retains new information.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "2/10"
+    },
+    "Overall Score": "6/10",
+    "Explanation": "The parent generally engages the child and encourages interaction, however, they can improve in several areas to make the reading session more beneficial. The parent could incorporate more varied prompts and be more deliberate in evaluating, expanding, and repeating information.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Ask the child more open-ended questions that require critical thinking and imagination.",
+            "Example: \"Why do you think Camilla turned into a rainbow?\""
+        ],
+        "Evaluate the Child\u2019s Responses:": [
+            "Give more affirmative evaluations to the child's responses to validate their understanding.",
+            "Example: \u201cThat\u2019s correct, those green things are bacteria tails. Great observation!\u201d"
+        ],
+        "Expand the Child\u2019s Responses:": [
+            "Expand on the child\u2019s answers to add more depth and context.",
+            "Example: \u201cYes, that is mashed potatoes. It looks like they are having a mashed potato storm \u2013 what else can you spot in the mashed potatoes?\u201d"
+        ],
+        "Repeat the Prompt:": [
+            "Revisit the prompt after expanding to reinforce learning.",
+            "Example: \u201cRemember earlier when we talked about contagious? Can you tell me what it means again?\u201d"
+        ],
+        "Incorporate the CROWD Prompts:": [],
+        "Completion prompts:": [
+            "Incorporate fill-in-the-blank questions to help with language structure.",
+            "Example: \u201cCamilla wanted to fit in, so she decided to...\u201d"
+        ],
+        "Recall prompts:": [
+            "Ask questions about the story plot and sequences of events.",
+            "Example: \u201cWhat did Camilla look like after she ate the beans?\u201d"
+        ],
+        "Open-ended prompts:": [
+            "Use prompts that focus on the pictures to engage the child's imagination.",
+            "Example: \u201cTell me what\u2019s happening in this picture where Camilla is a rainbow?\u201d"
+        ],
+        "Wh- prompts:": [
+            "Use questions starting with what, where, when, why, and how to introduce new vocabulary.",
+            "Example: \u201cWhy do you think the kids laughed at Camilla?\u201d"
+        ],
+        "Distancing prompts:": [
+            "Relate the story events to real-life experiences.",
+            "Example: \u201cHave you ever had to take medicine that tasted bad like Camilla?\u201d"
+        ]
+    }
+}

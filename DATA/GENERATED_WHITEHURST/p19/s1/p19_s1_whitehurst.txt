@@ -1,0 +1,79 @@
+1. Prompting the Child:
+
+Analysis:
+The parent prompts the child frequently during the reading. However, the prompts are often repetitive and primarily focus on identifying colors, dogs, and simple actions. They could be more varied and engaging to stimulate the child’s critical thinking and imagination.
+
+Quotes:
+- Line [22]: "Before he says that, who says that hello?"
+- Line [38]: "Okay, how about the others? What about these?"
+- Line [44]: "Which one is the little dog and which one is the big dog?"
+- Line [72]: "How about the red dog?"
+
+Score: 6/10
+
+2. Evaluating the Child's Response:
+
+Analysis:
+The parent frequently acknowledges the child's responses but does not always provide explicit evaluations. The responses serve more as affirmations of what the child said rather than evaluative feedback.
+
+Quotes:
+- Line [46]: "Okay."
+- Line [58]: "Going down."
+- Line [74]: "Bravo."
+- Line [88]: "Under a tree. Good."
+
+Score: 5/10
+
+3. Expanding the Child's Response:
+
+Analysis:
+The parent occasionally expands on the child's responses by adding more details or rephrasing but misses many opportunities to provide deeper expansions. The expansions mostly reinforce the immediate context without adding significant new information.
+
+Quotes:
+- Line [60]: "The green dog is up."
+- Line [97]: "In the water."
+- Line [101]: "He's trying to feed the fish. Feed."
+- Line [131]: "The sun is yellow."
+
+Score: 6/10
+
+4. Repeating the Prompt:
+
+Analysis:
+The parent rarely repeats the prompts to ensure the child has learned from expansions. There are few instances where the parent revisits a topic to reinforce the child’s understanding.
+
+Quotes:
+- Line [126]: "Go round again. Go round..."
+- Line [188]: "You see here? Dogs in the car again, going away, going away fast. You see?"
+
+Score: 3/10
+
+Overall Score: 5/10
+
+Explanation:
+The parent uses prompting and expansions fairly well but lacks consistency in evaluating the child's responses and repeating prompts to reinforce learning.
+
+How the Parent Can Improve:
+
+Use More Engaging Prompts:
+- Ask the child more open-ended questions that require critical thinking and imagination.
+  - Example: "Why do you think the dogs are all different colors?"
+
+Incorporate More CROWD Prompts:
+- Use completion prompts: "The big dog is ___."
+- Use recall prompts: "What happened before this page?"
+- Use distancing prompts: "Do you remember seeing a dog at the park? What was it doing?"
+
+Provide Clearer Evaluations:
+- Give more specific feedback indicating correctness or offering praise.
+  - Example: "Yes, that's right! The dog is up. Great job noticing that!"
+
+Expand More Meaningfully:
+- Add informative details to the child's responses.
+  - Example: "Yes, that’s right. The dog is in the house. Houses keep dogs safe and warm."
+
+Repeat Prompts to Reinforce Learning:
+- Revisit prompts after expanding to ensure the child has understood.
+  - Example: "Remember when we talked about the big dog? Can you find another big dog on this page?"
+
+By incorporating these techniques, the parent can align the reading experience more closely with the dialogic reading standards and enhance the child’s engagement and learning outcomes.

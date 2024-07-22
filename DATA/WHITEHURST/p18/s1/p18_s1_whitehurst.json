@@ -1,0 +1,97 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent frequently prompts the child throughout the dialogue, but most prompts are straightforward identification questions. The prompts could be more varied and include more open-ended and imaginative questions.",
+        "Quotes": [
+            "Line [5]: \"Where's Harold?\"",
+            "Line [5]: \"How's he making a path? What is he using?\"",
+            "Line [7]: \"What's that up there?\"",
+            "Line [11]: \"What is it?\"",
+            "Line [15]: \"Could you draw that? Why did he put the dragon there?\"",
+            "Line [17]: \"What did he draw with the crayon?\"",
+            "Line [19]: \"What's he going to draw?\"",
+            "Line [25]: \"What's your favorite kind of pie?\"",
+            "Line [33]: \"What do you think he's going to do next?\"",
+            "Line [34]: \"What's bigger than a hill? Can you read that word?\"",
+            "Line [39]: \"What do you think he's going to draw while he's falling?\"",
+            "Line [53]: \"Do you know what sound I-N-G makes at the end of a word? Ing. Can you say ing?\"",
+            "Line [61]: \"What do you think he's going to do with the brush for his bath?\"",
+            "Line [71]: \"Why don't they know who he is?\"",
+            "Line [74]: \"What do you think he's going to do?\"",
+            "Line [75]: \"What's he digging for, do you think?\"",
+            "Line [83]: \"Where is it?\"",
+            "Line [85]: \"What do you think this story's going to be about?\"",
+            "Line [91]: \"Why wouldn't you go down that one?\"",
+            "Line [102]: \"How do you think he feels now?\"",
+            "Line [108]: \"You get scared sometimes? What's scary for you?\"",
+            "Line [111]: \"Where's your right foot? Where's your right foot? Do you remember?\""
+        ],
+        "Score": "7/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent often acknowledges the child's responses positively but could provide more explicit evaluations to reinforce the child's contributions. Affirmations like \"Good\" and \"Yeah\" are used frequently, but they lack depth.",
+        "Quotes": [
+            "Line [6]: \"A crayon.\"",
+            "Line [9]: \"Moon.\"",
+            "Line [12]: \"A tree?\"",
+            "Line [15]: \"It looks good.\"",
+            "Line [17]: \"Yeah, he doesn't want other people to come and get the apples. That's right.\"",
+            "Line [18]: \"Waves.\"",
+            "Line [20]: \"A boat.\"",
+            "Line [24]: \"Hungry, good.\"",
+            "Line [28]: \"It just sounds good?\"",
+            "Line [38]: \"Mountain.\"",
+            "Line [55]: \"Getting, yep.\"",
+            "Line [56]: \"Bath.\"",
+            "Line [60]: \"Yep.\"",
+            "Line [66]: \"Because he was so dirty.\"",
+            "Line [80]: \"Do you think they recognize him now?\"",
+            "Line [100]: \"It's okay if sometimes we don't win. You can still have fun, right?\"",
+            "Line [104]: \"But guess what? It's going to be okay.\"",
+            "Line [111]: \"Yes, you will indeed.\""
+        ],
+        "Score": "8/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent expands on the child's responses by repeating and adding context, although without much depth at times. The expansions often involve rephrasing or adding minor details but could be further developed for richer engagement.",
+        "Quotes": [
+            "Line [7]: \"And he set off on his walk, taking his big purple crayon with him.\"",
+            "Line [15]: \"He didn't want to get lost in the woods, so he made a very small forest with just one tree in it. It turned out to be...\"",
+            "Line [20]: \"And in no time, he was climbing aboard a little boat.\"",
+            "Line [20]: \"Good, so he laid out a nice, simple picnic lunch.\"",
+            "Line [27]: \"Grape pie? I don't think I've ever tried grape pie.\"",
+            "Line [33]: \"He hated to see so much delicious pie go to waste. So Harold left a very hungry moose and a deserving porcupine to finish it up. Where's the moose?\"",
+            "Line [36]: \"What's bigger than a hill? Can you read that word?\"",
+            "Line [42]: \"Yeah, that's a good idea. He decided to do something else.\"",
+            "Line [57]: \"Do you remember what T-H together, what sound that makes? Bath.\""
+        ],
+        "Score": "7/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent does not consistently repeat prompts to ensure the child has learned from expansions. This deficiency reduces the reinforcement of concepts and vocabulary.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "2/10"
+    },
+    "Overall Score": "6/10",
+    "Explanation": "The parent does well in prompting the child and frequently evaluating responses. However, they lack depth in expansions and hardly ever repeat prompts post-expansion to reinforce learning.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Ask the child more open-ended questions that require critical thinking and imagination.",
+            "Example: \"Why do you think Harold decided to use a crayon for his walk?\""
+        ],
+        "Evaluate More Specifically:": [
+            "Instead of just saying \u201cGood\u201d, provide specific feedback that ties back to the story or introduces new concepts.",
+            "Example: \u201cYes, a boat! Boats help people stay afloat in the water.\u201d"
+        ],
+        "Expand More Deeply:": [
+            "Add layers of information or ask further questions to build on the child\u2019s responses.",
+            "Example: After the child says \"Wave,\" the parent could say, \u201cYes, waves in the ocean. Waves can be big and small. Have you ever seen waves at the beach?\u201d"
+        ],
+        "Repeat Prompts to Reinforce Learning:": [
+            "Revisit prompts after expansions to ensure the child has grasped the concepts.",
+            "Example: \u201cYou mentioned Harold used a crayon to draw the tree. Can you remember why he used the crayon?\u201d"
+        ],
+        "By incorporating more of these dialogic reading strategies, the parent can enhance the child\u2019s engagement and comprehension, fostering a more enriching reading experience.": []
+    }
+}

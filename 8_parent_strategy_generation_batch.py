@@ -307,7 +307,7 @@ def generate_batch_parent_strategy(header_directory, participant, train_session,
 
 # Example usage
 header_directory = 'DATA'  # Replace with your actual header directory path
-participant = 'p16'
+participant = 'p10'
 train_session = 's2'
 test_session = 's1'
 

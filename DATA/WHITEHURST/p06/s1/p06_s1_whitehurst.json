@@ -1,0 +1,72 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent prompts the child a few times during the reading, but the prompts are generally basic and not very engaging or challenging. They tend to be about turning pages or minor actions rather than content.",
+        "Quotes": [
+            "Line [1]: \"Which story do you want to pick?\"",
+            "Line [2]: \"And also click the corners to go to the next page or to previous page.\"",
+            "Line [10]: \"First page.\" (in response to child)",
+            "Line [21]: \"And that's it.\"",
+            "Line [73]: \"Do you want to read The Little House?\""
+        ],
+        "Score": "4/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent occasionally acknowledges or echoes the child's responses, but doesn't consistently provide clear evaluations.",
+        "Quotes": [
+            "Line [18]: \"Sad.\"",
+            "Line [42]: \"That is so mean, right?\""
+        ],
+        "Score": "3/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent seldom expands on the child's responses by adding more information or rephrasing. Instead, they primarily move on with the story.",
+        "Quotes": [
+            "Line [42]: \"That is so mean, right?\""
+        ],
+        "Score": "2/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent does not consistently repeat prompts to ensure the child has learned from expansions. There are no explicit instances where the parent revisits a point to reinforce the child\u2019s learning.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "1/10"
+    },
+    "Overall Score": "2.5/10",
+    "Explanation": "The parent needs significant improvement in all areas of the PEER sequence. They primarily focus on reading the stories and only occasionally interact with the child in a way that might be expected in dialogic reading.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Ask the child more open-ended questions that require critical thinking and imagination.",
+            "Example: \"Why do you think Peter felt sad when he found his pocket empty?\""
+        ],
+        "Evaluate Responses Clearly:": [
+            "Provide clear and specific evaluations to make the child feel their input is valued and correct or guide them gently if they are incorrect.",
+            "Example: \"Yes, that's right! Peter was sad because his snowball melted.\""
+        ],
+        "Expand on Responses:": [
+            "Expand on the child's responses consistently to introduce new vocabulary and concepts, or provide more context.",
+            "Example: If the child says \"snow,\" the parent could expand by saying, \"Yes, snow is very cold and soft, and you can make many things out of it, like snowmen and snowballs.\""
+        ],
+        "Repeat the Prompt:": [
+            "After expanding, parents should repeat the initial prompt to ensure the child has absorbed the new information.",
+            "Example: \"Remember when Peter looked in his pocket and found it empty? Why was he sad?\""
+        ],
+        "Incorporate the 5 Types of CROWD Prompts:": [],
+        "1. Completion Prompt:": [
+            "\"Peter put on his _____ (snowsuit) and went outside.\""
+        ],
+        "2. Recall Prompt:": [
+            "\"Can you tell me what Peter did after he put on his snowsuit?\""
+        ],
+        "3. Open-ended Prompt:": [
+            "\"What do you see happening in this picture of Peter making a snow angel?\""
+        ],
+        "4. Wh- Prompt:": [
+            "\"Why did the little blue engine decide to help the toys?\""
+        ],
+        "5. Distancing Prompt:": [
+            "\"Have you ever built a snowman like Peter? What was it like?\""
+        ],
+        "By using these tactics, the parent can create a more engaging, educational, and interactive reading experience for their child.": []
+    }
+}

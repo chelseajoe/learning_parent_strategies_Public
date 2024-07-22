@@ -161,6 +161,6 @@ def batch_video_annotation(header_directory, participant, session):
 
 # Example usage
 header_directory = 'DATA'
-participant = 'p26'
-session = 'sw'
+participant = 'p10'
+session = 's1'
 batch_video_annotation(header_directory, participant, session)

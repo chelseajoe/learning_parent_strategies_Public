@@ -1,0 +1,71 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent prompts the child a few times during the reading, but the prompts are generally basic and not very engaging or challenging. They tend to ask simple identification questions and prompt actions like turning pages.",
+        "Quotes": [
+            "Line [18]: \"What story? Okay.\"",
+            "Line [50]: \"Should we change?\"",
+            "Line [84]: \"Do you want to change a book?\"",
+            "Line [120]: \"How about I change another book?\"",
+            "Line [122]: \"Change to a shorter one.\""
+        ],
+        "Score": "3/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent occasionally acknowledges the child's responses but doesn't consistently provide clear evaluations. The responses are more acknowledgments rather than evaluations.",
+        "Quotes": [
+            "Line [44]: \"Yeah, it is.\"",
+            "Line [48]: \"Lorax.\"",
+            "Line [113]: \"Mm-hmm (affirmative).\"",
+            "Line [104]: \"Mm-hmm (affirmative).\"",
+            "Line [140]: \"Mm-hmm (affirmative).\""
+        ],
+        "Score": "4/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent does not frequently expand on the child's responses by adding more information or rephrasing. The minimal expansion happens regarding simpler responses from the child but lacks substantial elaboration.",
+        "Quotes": [
+            "Line [44]: \"Yeah, it is.\""
+        ],
+        "Score": "2/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent does not consistently repeat prompts to ensure the child has learned from expansions. There are almost no clear instances where the parent revisits a point to reinforce the child\u2019s learning.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "1/10"
+    },
+    "Overall Score": "2.5/10",
+    "Explanation": "The parent needs significant improvement in all areas of the PEER sequence. Prompting is not varied and robust; evaluations are mostly acknowledgments rather than substantive assessments or encouragements. Expansions are rare and not comprehensive, and the parent doesn't repeat prompts to reinforce learning.",
+    "How the Parent Can Improve": {
+        "Use More Engaging Prompts:": [
+            "Ask the child more open-ended questions that require critical thinking and imagination.",
+            "Example: \"Why do you think the Lorax was taken away?\""
+        ],
+        "Incorporate Recall Prompts:": [
+            "Ask the child to remember and recount parts of the story.",
+            "Example: \"Can you tell me what happened to the Bar-ba-loots?\""
+        ],
+        "Utilize Wh-Prompts:": [
+            "Use more 'wh-' questions to understand the child's perspective and encourage detailed responses.",
+            "Example: \"What do you think will happen next?\""
+        ],
+        "Practice Expansion:": [
+            "Rephrase the child's responses and add additional information.",
+            "Example: Child says, \"Lorax.\" Parent responds, \"Yes, that's the Lorax. The Lorax speaks for the trees because they have no tongues.\""
+        ],
+        "Repeat the Prompt:": [
+            "After expansion, repeat the initial question to ensure understanding.",
+            "Example: \"Can you say Lorax again for me?\""
+        ],
+        "Engage with Distancing Prompts:": [
+            "Connect the story to the child's real-life experiences.",
+            "Example: \"Have you ever seen a tree that you thought needed protection?\""
+        ],
+        "Encourage Participation:": [
+            "Foster more active participation from the child throughout the reading session.",
+            "Example: \"Can you help me read the next page?\""
+        ],
+        "By incorporating these techniques, the parent will be better aligned with dialogic reading practices and help improve the child\u2019s linguistic and cognitive skills through more effective interactions.": []
+    }
+}

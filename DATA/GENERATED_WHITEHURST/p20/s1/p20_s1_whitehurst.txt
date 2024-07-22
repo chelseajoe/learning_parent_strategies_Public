@@ -1,0 +1,96 @@
+1. Prompting the Child:
+
+    Analysis:
+    The parent does prompt the child at a few instances during the reading, but the majority of these prompts lean towards being basic identification questions or yes/no questions. The prompts could be more engaging and varied, encouraging the child to think more deeply about the story.
+
+    Quotes:
+    - Line [0]: “Are you going to read this story or am I going to read this story?”
+    - Line [10]: “Would you like to go to school like that?”
+    - Line [20]: “What is that? What do you think is happening there?”
+    - Line [27]: “Do you know what contagious means?”
+    - Line [52]: “What do you think is happening, Toto?”
+    - Line [57]: “Where do you think Camilla is? What's that on her back?”
+    - Line [59]: “How do you think she got a tail?”
+    - Line [106]: “Do you want to read another book? Do you want a short book or a long book?”
+
+    Score: 6/10
+    
+2. Evaluating the Child's Response:
+
+    Analysis:
+    The parent acknowledges the child's responses but doesn't consistently provide clear and effective evaluations. There are a few instances where the parent does provide an evaluation, but they are not frequent.
+
+    Quotes:
+    - Line [49]: “There's the green thing, might be the bacteria tail or the fuzzy are the balls.”
+    - Line [54]: “You think the shirt had some virus particle and made her sick? Could be. We'll see.”
+    - Line [103]: “No. Everybody can like how they look, Toto.”
+    - Line [182]: “Ice cream, I thought you would love this pickle too.”
+
+    Score: 5/10
+
+3. Expanding the Child's Response:
+
+    Analysis:
+    The parent expands on the child's responses occasionally by adding more context or rephrasing, but it is not consistently done. The expansions could be more comprehensive and frequent.
+
+    Quotes:
+    - Line [49]: “There's the green thing, might be the bacteria tail or the fuzzy are the balls.”
+    - Line [54]: “You think the shirt had some virus particle and made her sick? Could be. We'll see.”
+    - Line [142]: “Like a sun is setting in the West. Have you heard the sun is setting in the West?”
+
+    Score: 4/10
+
+4. Repeating the Prompt:
+
+    Analysis:
+    The parent does not consistently repeat prompts after expanding on them to reinforce learning. There is a missed opportunity to ensure the child understands and retains new information.
+
+    Quotes:
+    - There are no clear instances of repetition after expansion.
+
+    Score: 2/10
+
+Overall Score: 6/10
+
+Explanation:
+The parent generally engages the child and encourages interaction, however, they can improve in several areas to make the reading session more beneficial. The parent could incorporate more varied prompts and be more deliberate in evaluating, expanding, and repeating information.
+
+How the Parent Can Improve:
+
+Use More Engaging Prompts:
+- Ask the child more open-ended questions that require critical thinking and imagination.
+- Example: "Why do you think Camilla turned into a rainbow?"
+
+Evaluate the Child’s Responses:
+- Give more affirmative evaluations to the child's responses to validate their understanding.
+- Example: “That’s correct, those green things are bacteria tails. Great observation!”
+
+Expand the Child’s Responses:
+- Expand on the child’s answers to add more depth and context.
+- Example: “Yes, that is mashed potatoes. It looks like they are having a mashed potato storm – what else can you spot in the mashed potatoes?”
+
+Repeat the Prompt:
+- Revisit the prompt after expanding to reinforce learning.
+- Example: “Remember earlier when we talked about contagious? Can you tell me what it means again?”
+
+Incorporate the CROWD Prompts:
+
+Completion prompts:
+- Incorporate fill-in-the-blank questions to help with language structure.
+- Example: “Camilla wanted to fit in, so she decided to...”
+
+Recall prompts:
+- Ask questions about the story plot and sequences of events.
+- Example: “What did Camilla look like after she ate the beans?”
+
+Open-ended prompts:
+- Use prompts that focus on the pictures to engage the child's imagination.
+- Example: “Tell me what’s happening in this picture where Camilla is a rainbow?”
+
+Wh- prompts:
+- Use questions starting with what, where, when, why, and how to introduce new vocabulary.
+- Example: “Why do you think the kids laughed at Camilla?”
+
+Distancing prompts:
+- Relate the story events to real-life experiences.
+- Example: “Have you ever had to take medicine that tasted bad like Camilla?”

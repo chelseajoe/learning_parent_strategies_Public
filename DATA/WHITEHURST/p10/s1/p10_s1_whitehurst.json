@@ -1,0 +1,77 @@
+{
+    "Prompting the Child": {
+        "Analysis": "The parent prompts the child a few times during the reading but mostly asks simple questions or seeks compliance (e.g., preparing to read). The prompts are basic and don't sufficiently engage the child's critical thinking or imagination.",
+        "Quotes": [
+            "Line [0]: \u201cOkay, you want to pick a story? Should we do a short story or a long story?\u201d",
+            "Line [2]: \u201cOkay which one looks like a good one for you?\u201d",
+            "Line [8]: \u201cDo you ever try on forty-two outfits?\u201d",
+            "Line [34]: \u201cIs that Camilla?\u201d"
+        ],
+        "Score": "4/10"
+    },
+    "Evaluating the Child's Response": {
+        "Analysis": "The parent acknowledges the child's responses but rarely provides clear evaluations that build on them. The responses are mainly acknowledgments with some brief affirmations.",
+        "Quotes": [
+            "Line [10]: \u201cNo.\u201d",
+            "Line [35]: \u201cYeah\u201d"
+        ],
+        "Score": "3/10"
+    },
+    "Expanding the Child's Response": {
+        "Analysis": "The parent seldom expands on the child's responses by adding more information or rephrasing. The instances of expansion are minimal and lack depth, leading to missed opportunities for deeper engagement.",
+        "Quotes": [
+            "Line [10]: \u201cNo. But none seem quite right\u2026\u201d",
+            "Line [35]: \u201cYeah. Oh my goodness. She sprouted roots and berries and crystals and feathers and a long furry tail, but nothing worked.\u201d"
+        ],
+        "Score": "2/10"
+    },
+    "Repeating the Prompt": {
+        "Analysis": "The parent does not consistently repeat prompts to ensure the child has learned from expansions. There are no clear examples where the parent revisits a question to reinforce the learning from an earlier expansion.",
+        "Quotes": [
+            "There are no clear instances of repetition after expansion."
+        ],
+        "Score": "1/10"
+    },
+    "Overall Score": "2.5/10",
+    "Explanation": "The parent can improve significantly in all areas of the PEER sequence. They seldom utilize structured prompts effectively and do not consistently evaluate, expand upon, or repeat the child's responses. This results in limited engagement and learning opportunities for the child.",
+    "How the Parent Can Improve": {
+        "1. Use More Engaging Prompts:": [
+            "Ask more open-ended questions requiring critical thinking and imagination.",
+            "Example: \"Why do you think Camilla got stripes?\""
+        ],
+        "2. Evaluate the Child\u2019s Responses Clearly:": [
+            "Provide affirmations and gentle corrections where necessary to reinforce learning.",
+            "Example: \"No, but she must have felt really confused trying on so many outfits.\""
+        ],
+        "3. Expand the Child\u2019s Responses:": [
+            "Add more information and rephrase the child\u2019s responses to build on their thoughts.",
+            "Example: If the child says, \"Stripes,\" expand with, \"Yes, Camilla has stripes all over her body like a rainbow!\""
+        ],
+        "4. Repeat the Prompts:": [
+            "Revisit initial prompts to reinforce learning after an expansion.",
+            "Example: \"We talked about Camilla's stripes. Can you point to where her stripes are now?\""
+        ],
+        "Incorporate the CROWD Prompts:": [],
+        "1. Completion Prompts:": [
+            "\"Camilla put on a pretty red dress and looked in the ____.\"",
+            "This encourages the child to say \"mirror\" and provide structure."
+        ],
+        "2. Recall Prompts:": [
+            "\"What happened when Camilla tried on all those outfits?\"",
+            "This helps the child recall and understand the plot."
+        ],
+        "3. Open-ended Prompts:": [
+            "\"Tell me what you see in this picture of Camilla and her room.\"",
+            "Encourages discussion about details in the visuals."
+        ],
+        "4. Wh- Prompts:": [
+            "\"Why do you think Camilla didn't want to eat lima beans?\"",
+            "Introduces vocabulary and reasoning skills."
+        ],
+        "5. Distancing Prompts:": [
+            "\"Have you ever felt like Camilla when she was worried about what others thought?\"",
+            "Connects the story to the child\u2019s personal experiences, enhancing verbal fluency."
+        ],
+        "Implementing these strategies will help the parent better adhere to dialogic reading standards, thereby enriching the reading experience, and aiding the child\u2019s learning and engagement.": []
+    }
+}

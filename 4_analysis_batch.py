@@ -165,7 +165,7 @@ def batch_analysis_processing(header_directory, participant, session):
 if __name__ == "__main__":
     # Example usage
     header_directory = 'DATA'  # Replace with your actual header directory path
-    participant = 'p25'
+    participant = 'p10'
     session = 's1'
 
     batch_analysis_processing(header_directory, participant, session)

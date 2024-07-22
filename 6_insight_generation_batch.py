@@ -142,7 +142,7 @@ def generate_batch_insights(header_directory, participant, session):
 
 # Example usage
 header_directory = 'DATA'  # Replace with your actual header directory path
-participant = 'p25'
+participant = 'p10'
 session = 's1'
  #16 s2, 12 s1
 generate_batch_insights(header_directory, participant, session)
