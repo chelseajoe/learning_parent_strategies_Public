@@ -1,0 +1,1 @@
+Scores for: DATA/AVERAGE_SCORES/p06/s1/p06_s1_average_scores.txtOverall Average Precision@K Score across all queries: 0.90Overall Average Insight Retrieval Score across all contexts: 0.9617

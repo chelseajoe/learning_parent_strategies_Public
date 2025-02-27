@@ -1,0 +1,51 @@
+p06_s1
+Overall Average Precision@K Score across all queries: 0.90
+Overall Average Insight Retrieval Score across all contexts: 0.9617
+
+p09_s1
+Overall Average Precision@K Score across all queries: 0.97
+Overall Average Insight Retrieval Score across all contexts: 0.9559
+
+p10_s1
+Overall Average Precision@K Score across all queries: 0.59
+Overall Average Insight Retrieval Score across all contexts: 0.9450
+
+p13_s1
+Overall Average Precision@K Score across all queries: 0.93
+Overall Average Insight Retrieval Score across all contexts: 0.9588
+
+p16_s1
+Overall Average Precision@K Score across all queries: 0.98
+Overall Average Insight Retrieval Score across all contexts: 0.9576
+
+p18_s1
+Overall Average Precision@K Score across all queries: 0.86
+Overall Average Insight Retrieval Score across all contexts: 0.9574
+
+p19_s1
+Overall Average Precision@K Score across all queries: 0.96
+Overall Average Insight Retrieval Score across all contexts: 0.9597
+
+p20_s1
+Overall Average Precision@K Score across all queries: 0.97
+Overall Average Insight Retrieval Score across all contexts: 0.9621
+
+p21_s1
+Overall Average Precision@K Score across all queries: 0.91
+Overall Average Insight Retrieval Score across all contexts: 0.9543
+
+p22_s1
+Overall Average Precision@K Score across all queries: 0.83
+Overall Average Insight Retrieval Score across all contexts: 0.9573
+
+p23_s1
+Overall Average Precision@K Score across all queries: 0.82
+Overall Average Insight Retrieval Score across all contexts: 0.9522
+
+p24_s1
+Overall Average Precision@K Score across all queries: 0.95
+Overall Average Insight Retrieval Score across all contexts: 0.9613
+
+p25_s1
+Overall Average Precision@K Score across all queries: 0.98
+Overall Average Insight Retrieval Score across all contexts: 0.9622
